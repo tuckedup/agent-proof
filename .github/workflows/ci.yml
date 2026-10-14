@@ -1,0 +1,105 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      run_gate:
+        description: "Run live model regression gate check"
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  python-test:
+    name: Python Lint, Types & Tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          version: "latest"
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install 3.12
+
+      - name: Install dependencies
+        run: uv sync --extra dev
+
+      - name: Lint (Ruff)
+        run: uv run poe lint
+
+      - name: Typecheck (Mypy)
+        run: uv run poe typecheck
+
+      - name: Run Unit Tests
+        run: uv run poe test
+
+      - name: Smoke Simulation (MockProvider, 20 tasks)
+        run: uv run poe sim --agent react_baseline --mode dual --tasks smoke --trials 1
+        env:
+          AGENT_MODEL: "mock/react"
+          USER_SIM_MODEL: "mock/user"
+
+  web-test:
+    name: Frontend Lint & Tests
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "pnpm"
+          cache-dependency-path: "web/pnpm-lock.yaml"
+
+      - name: Install web dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Lint web
+        run: pnpm lint
+
+      - name: Run web tests
+        run: pnpm test
+
+  regression-gate:
+    name: Live Model Regression Gate
+    if: github.event.inputs.run_gate == 'true'
+    needs: [python-test, web-test]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          version: "latest"
+
+      - name: Set up Python
+        run: uv python install 3.12
+
+      - name: Install dependencies
+        run: uv sync --extra dev
+
+      - name: Run regression gate check
+        run: uv run poe gate --baseline reports/baseline.json --margin 0.05
+        env:
+          AGENT_MODEL: ${{ secrets.AGENT_MODEL }}
+          USER_SIM_MODEL: ${{ secrets.USER_SIM_MODEL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

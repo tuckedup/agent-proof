@@ -1,0 +1,27 @@
+version: "3.8"
+
+services:
+  phoenix:
+    image: arizephoenix/phoenix:latest
+    container_name: agentproof-phoenix
+    ports:
+      - "6006:6006"
+      - "4317:4317"
+    environment:
+      - PHOENIX_PORT=6006
+      - PHOENIX_HOST=0.0.0.0
+    restart: unless-stopped
+
+  web:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+    container_name: agentproof-web
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - NEXT_PUBLIC_PHOENIX_URL=http://localhost:6006
+    depends_on:
+      - phoenix
+    restart: unless-stopped

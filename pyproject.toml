@@ -1,0 +1,66 @@
+[project]
+name = "agentproof"
+version = "0.1.0"
+description = "An agent reliability lab for ChemDesk oilfield chemical order desk agent"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    { name = "APrabhu21" }
+]
+dependencies = [
+    "pydantic>=2.7.0",
+    "litellm>=1.40.0",
+    "langgraph>=0.2.0",
+    "langchain-core>=0.2.0",
+    "opentelemetry-api>=1.25.0",
+    "opentelemetry-sdk>=1.25.0",
+    "opentelemetry-exporter-otlp-proto-http>=1.25.0",
+    "arize-phoenix>=4.0.0",
+    "matplotlib>=3.8.0",
+    "pandas>=2.2.0",
+    "numpy>=1.26.0",
+    "poethepoet>=0.27.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.23.0",
+    "ruff>=0.5.0",
+    "mypy>=1.10.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["agentproof"]
+
+[tool.poe]
+executor = { type = "simple" }
+
+[tool.poe.tasks]
+dev = { cmd = "python -m agentproof.cli dev", help = "Start local services" }
+test = { cmd = "python -m pytest tests -v", help = "Run unit tests" }
+lint = { cmd = "python -m ruff check agentproof tests", help = "Run linter" }
+lint-fix = { cmd = "python -m ruff check --fix agentproof tests", help = "Run linter with auto-fix" }
+typecheck = { cmd = "python -m mypy agentproof --ignore-missing-imports", help = "Run typechecker" }
+sim = { cmd = "python -m agentproof.cli sim", help = "Run agent simulation benchmark" }
+report = { cmd = "python -m agentproof.cli report", help = "Generate report from simulation runs" }
+"judges:validate" = { cmd = "python -m agentproof.cli validate-judges", help = "Validate LLM judges" }
+gate = { cmd = "python -m agentproof.cli gate", help = "Run CI regression gate" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+norecursedirs = [".venv", "web", "node_modules", ".git"]
+
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]
+ignore = []

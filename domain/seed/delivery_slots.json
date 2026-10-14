@@ -1,0 +1,1298 @@
+[
+  {
+    "slot_id": "SLOT-0001",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-15",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0002",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-15",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0003",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-15",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0004",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-15",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0005",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-15",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0006",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-15",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0007",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-15",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0008",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-15",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0009",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-15",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0010",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-15",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0011",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-15",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0012",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-15",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0013",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-15",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0014",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-15",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0015",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-15",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0016",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-15",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0017",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-15",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0018",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-15",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0019",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-15",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0020",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-15",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0021",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-15",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0022",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-15",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0023",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-15",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0024",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-15",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0025",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-16",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0026",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-16",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0027",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-16",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0028",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-16",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0029",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-16",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0030",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-16",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0031",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-16",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0032",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-16",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0033",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-16",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0034",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-16",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0035",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-16",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0036",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-16",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0037",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-16",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0038",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-16",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0039",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-16",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0040",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-16",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0041",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-16",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0042",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-16",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0043",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-16",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0044",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-16",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0045",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-16",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0046",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-16",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0047",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-16",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0048",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-16",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0049",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-17",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0050",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-17",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0051",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-17",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0052",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-17",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0053",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-17",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0054",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-17",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0055",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-17",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0056",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-17",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0057",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-17",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0058",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-17",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0059",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-17",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0060",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-17",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0061",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-17",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0062",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-17",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0063",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-17",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0064",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-17",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0065",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-17",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0066",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-17",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0067",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-17",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0068",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-17",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0069",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-17",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0070",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-17",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0071",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-17",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0072",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-17",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0073",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-18",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0074",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-18",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0075",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-18",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0076",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-18",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0077",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-18",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0078",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-18",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0079",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-18",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0080",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-18",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0081",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-18",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0082",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-18",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0083",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-18",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0084",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-18",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0085",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-18",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0086",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-18",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0087",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-18",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0088",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-18",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0089",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-18",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0090",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-18",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0091",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-18",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0092",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-18",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0093",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-18",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0094",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-18",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0095",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-18",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0096",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-18",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0097",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-19",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0098",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-19",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0099",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-19",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0100",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-19",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0101",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-19",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0102",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-19",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0103",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-19",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0104",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-19",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0105",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-19",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0106",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-19",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0107",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-19",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0108",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-19",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0109",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-19",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0110",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-19",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0111",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-19",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0112",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-19",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0113",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-19",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0114",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-19",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0115",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-19",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0116",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-19",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0117",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-19",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0118",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-19",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0119",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-19",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0120",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-19",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0121",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-20",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0122",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-20",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0123",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-001",
+    "delivery_date": "2026-10-20",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0124",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-20",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0125",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-20",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0126",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-002",
+    "delivery_date": "2026-10-20",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0127",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-20",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0128",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-20",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0129",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-003",
+    "delivery_date": "2026-10-20",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0130",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-20",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0131",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-20",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0132",
+    "depot_id": "DEP-MID",
+    "truck_id": "TRK-004",
+    "delivery_date": "2026-10-20",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0133",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-20",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0134",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-20",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0135",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-005",
+    "delivery_date": "2026-10-20",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0136",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-20",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0137",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-20",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0138",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-006",
+    "delivery_date": "2026-10-20",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0139",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-20",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0140",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-20",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0141",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-007",
+    "delivery_date": "2026-10-20",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0142",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-20",
+    "shift": "morning",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0143",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-20",
+    "shift": "afternoon",
+    "status": "open",
+    "order_id": null
+  },
+  {
+    "slot_id": "SLOT-0144",
+    "depot_id": "DEP-PEC",
+    "truck_id": "TRK-008",
+    "delivery_date": "2026-10-20",
+    "shift": "night",
+    "status": "open",
+    "order_id": null
+  }
+]

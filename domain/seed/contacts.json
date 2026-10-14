@@ -1,0 +1,1022 @@
+[
+  {
+    "contact_id": "CON-001",
+    "account_id": "ACC-001",
+    "full_name": "Wyatt Callahan",
+    "phone": "432-555-2312",
+    "email": "wyatt.callahan@apexenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-002",
+    "account_id": "ACC-001",
+    "full_name": "Travis Collier",
+    "phone": "432-555-4853",
+    "email": "travis.collier@apexenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-003",
+    "account_id": "ACC-001",
+    "full_name": "Dale Collier",
+    "phone": "432-555-1651",
+    "email": "dale.collier@apexenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-004",
+    "account_id": "ACC-002",
+    "full_name": "Clint Bledsoe",
+    "phone": "432-555-9565",
+    "email": "clint.bledsoe@permianenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-005",
+    "account_id": "ACC-002",
+    "full_name": "Colt Vance",
+    "phone": "432-555-6147",
+    "email": "colt.vance@permianenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-006",
+    "account_id": "ACC-003",
+    "full_name": "Brett Miller",
+    "phone": "432-555-5915",
+    "email": "brett.miller@cimarronenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-007",
+    "account_id": "ACC-003",
+    "full_name": "Austin Dutton",
+    "phone": "432-555-2638",
+    "email": "austin.dutton@cimarronenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-008",
+    "account_id": "ACC-003",
+    "full_name": "Clayton Garrison",
+    "phone": "432-555-6718",
+    "email": "clayton.garrison@cimarronenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-009",
+    "account_id": "ACC-004",
+    "full_name": "Garrett Rawlins",
+    "phone": "432-555-9900",
+    "email": "garrett.rawlins@loneenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-010",
+    "account_id": "ACC-004",
+    "full_name": "Hank Bledsoe",
+    "phone": "432-555-5905",
+    "email": "hank.bledsoe@loneenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-011",
+    "account_id": "ACC-005",
+    "full_name": "Colt Dutton",
+    "phone": "432-555-3546",
+    "email": "colt.dutton@midlandenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-012",
+    "account_id": "ACC-005",
+    "full_name": "Beau Collier",
+    "phone": "432-555-6617",
+    "email": "beau.collier@midlandenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-013",
+    "account_id": "ACC-006",
+    "full_name": "Luke Rawlins",
+    "phone": "432-555-1832",
+    "email": "luke.rawlins@redenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-014",
+    "account_id": "ACC-006",
+    "full_name": "Clint Rawlins",
+    "phone": "432-555-6464",
+    "email": "clint.rawlins@redenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-015",
+    "account_id": "ACC-006",
+    "full_name": "Colt Miller",
+    "phone": "432-555-8007",
+    "email": "colt.miller@redenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-016",
+    "account_id": "ACC-007",
+    "full_name": "Dale Dutton",
+    "phone": "432-555-3442",
+    "email": "dale.dutton@chollaenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-017",
+    "account_id": "ACC-007",
+    "full_name": "Wayne McBride",
+    "phone": "432-555-3426",
+    "email": "wayne.mcbride@chollaenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-018",
+    "account_id": "ACC-008",
+    "full_name": "Wayne Rawlins",
+    "phone": "432-555-1653",
+    "email": "wayne.rawlins@blackenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-019",
+    "account_id": "ACC-008",
+    "full_name": "Clayton Bledsoe",
+    "phone": "432-555-2684",
+    "email": "clayton.bledsoe@blackenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-020",
+    "account_id": "ACC-009",
+    "full_name": "Cody Vance",
+    "phone": "432-555-3900",
+    "email": "cody.vance@caprockenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-021",
+    "account_id": "ACC-009",
+    "full_name": "Hank Miller",
+    "phone": "432-555-6442",
+    "email": "hank.miller@caprockenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-022",
+    "account_id": "ACC-009",
+    "full_name": "Dustin Rawlins",
+    "phone": "432-555-2771",
+    "email": "dustin.rawlins@caprockenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-023",
+    "account_id": "ACC-010",
+    "full_name": "Luke Vance",
+    "phone": "432-555-8541",
+    "email": "luke.vance@westenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-024",
+    "account_id": "ACC-010",
+    "full_name": "Beau Vance",
+    "phone": "432-555-4164",
+    "email": "beau.vance@westenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-025",
+    "account_id": "ACC-011",
+    "full_name": "Colt Dutton",
+    "phone": "432-555-5573",
+    "email": "colt.dutton@delawareenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-026",
+    "account_id": "ACC-011",
+    "full_name": "Brett Bledsoe",
+    "phone": "432-555-9785",
+    "email": "brett.bledsoe@delawareenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-027",
+    "account_id": "ACC-011",
+    "full_name": "Hank Dutton",
+    "phone": "432-555-5279",
+    "email": "hank.dutton@delawareenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-028",
+    "account_id": "ACC-012",
+    "full_name": "Wayne Dutton",
+    "phone": "432-555-6663",
+    "email": "wayne.dutton@eagleenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-029",
+    "account_id": "ACC-012",
+    "full_name": "Clint Collier",
+    "phone": "432-555-2894",
+    "email": "clint.collier@eagleenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-030",
+    "account_id": "ACC-012",
+    "full_name": "Clayton Rawlins",
+    "phone": "432-555-8144",
+    "email": "clayton.rawlins@eagleenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-031",
+    "account_id": "ACC-013",
+    "full_name": "Garrett Hawkins",
+    "phone": "432-555-6409",
+    "email": "garrett.hawkins@pecosenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-032",
+    "account_id": "ACC-013",
+    "full_name": "Austin Bledsoe",
+    "phone": "432-555-5920",
+    "email": "austin.bledsoe@pecosenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-033",
+    "account_id": "ACC-014",
+    "full_name": "Clint McBride",
+    "phone": "432-555-5844",
+    "email": "clint.mcbride@ironenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-034",
+    "account_id": "ACC-014",
+    "full_name": "Cody Vance",
+    "phone": "432-555-7211",
+    "email": "cody.vance@ironenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-035",
+    "account_id": "ACC-014",
+    "full_name": "Beau Hawkins",
+    "phone": "432-555-1006",
+    "email": "beau.hawkins@ironenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-036",
+    "account_id": "ACC-015",
+    "full_name": "Clayton Hawkins",
+    "phone": "432-555-6279",
+    "email": "clayton.hawkins@roughneckenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-037",
+    "account_id": "ACC-015",
+    "full_name": "Jesse Hensley",
+    "phone": "432-555-9375",
+    "email": "jesse.hensley@roughneckenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-038",
+    "account_id": "ACC-015",
+    "full_name": "Wyatt Bledsoe",
+    "phone": "432-555-9445",
+    "email": "wyatt.bledsoe@roughneckenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-039",
+    "account_id": "ACC-016",
+    "full_name": "Travis Vance",
+    "phone": "432-555-4680",
+    "email": "travis.vance@guadalupeenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-040",
+    "account_id": "ACC-016",
+    "full_name": "Cody Callahan",
+    "phone": "432-555-8784",
+    "email": "cody.callahan@guadalupeenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-041",
+    "account_id": "ACC-016",
+    "full_name": "Travis Hensley",
+    "phone": "432-555-4185",
+    "email": "travis.hensley@guadalupeenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-042",
+    "account_id": "ACC-017",
+    "full_name": "Brett Vance",
+    "phone": "432-555-1090",
+    "email": "brett.vance@coyoteenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-043",
+    "account_id": "ACC-017",
+    "full_name": "Clint Vance",
+    "phone": "432-555-9486",
+    "email": "clint.vance@coyoteenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-044",
+    "account_id": "ACC-017",
+    "full_name": "Wayne Garrison",
+    "phone": "432-555-2988",
+    "email": "wayne.garrison@coyoteenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-045",
+    "account_id": "ACC-018",
+    "full_name": "Jesse Bledsoe",
+    "phone": "432-555-6198",
+    "email": "jesse.bledsoe@mesaenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-046",
+    "account_id": "ACC-018",
+    "full_name": "Clint Garrison",
+    "phone": "432-555-3607",
+    "email": "clint.garrison@mesaenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-047",
+    "account_id": "ACC-019",
+    "full_name": "Colt Vance",
+    "phone": "432-555-5543",
+    "email": "colt.vance@pioneerenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-048",
+    "account_id": "ACC-019",
+    "full_name": "Luke Bledsoe",
+    "phone": "432-555-8206",
+    "email": "luke.bledsoe@pioneerenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-049",
+    "account_id": "ACC-019",
+    "full_name": "Beau Vance",
+    "phone": "432-555-6238",
+    "email": "beau.vance@pioneerenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-050",
+    "account_id": "ACC-020",
+    "full_name": "Cody Miller",
+    "phone": "432-555-3503",
+    "email": "cody.miller@silverenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-051",
+    "account_id": "ACC-020",
+    "full_name": "Travis Hawkins",
+    "phone": "432-555-9890",
+    "email": "travis.hawkins@silverenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-052",
+    "account_id": "ACC-021",
+    "full_name": "Wayne Vance",
+    "phone": "432-555-7381",
+    "email": "wayne.vance@brazosenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-053",
+    "account_id": "ACC-021",
+    "full_name": "Hank Collier",
+    "phone": "432-555-1096",
+    "email": "hank.collier@brazosenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-054",
+    "account_id": "ACC-021",
+    "full_name": "Beau Hawkins",
+    "phone": "432-555-7865",
+    "email": "beau.hawkins@brazosenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-055",
+    "account_id": "ACC-022",
+    "full_name": "Luke Vance",
+    "phone": "432-555-8956",
+    "email": "luke.vance@highenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-056",
+    "account_id": "ACC-022",
+    "full_name": "Brett McBride",
+    "phone": "432-555-7624",
+    "email": "brett.mcbride@highenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-057",
+    "account_id": "ACC-023",
+    "full_name": "Cody Collier",
+    "phone": "432-555-7455",
+    "email": "cody.collier@calicheenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-058",
+    "account_id": "ACC-023",
+    "full_name": "Hank Dutton",
+    "phone": "432-555-3223",
+    "email": "hank.dutton@calicheenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-059",
+    "account_id": "ACC-023",
+    "full_name": "Wyatt Callahan",
+    "phone": "432-555-6363",
+    "email": "wyatt.callahan@calicheenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-060",
+    "account_id": "ACC-024",
+    "full_name": "Austin McBride",
+    "phone": "432-555-7211",
+    "email": "austin.mcbride@sundownenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-061",
+    "account_id": "ACC-024",
+    "full_name": "Clint Rawlins",
+    "phone": "432-555-8705",
+    "email": "clint.rawlins@sundownenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-062",
+    "account_id": "ACC-024",
+    "full_name": "Wayne McBride",
+    "phone": "432-555-2124",
+    "email": "wayne.mcbride@sundownenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-063",
+    "account_id": "ACC-025",
+    "full_name": "Dustin Vance",
+    "phone": "432-555-3496",
+    "email": "dustin.vance@vanguardenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-064",
+    "account_id": "ACC-025",
+    "full_name": "Cody Hensley",
+    "phone": "432-555-4571",
+    "email": "cody.hensley@vanguardenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-065",
+    "account_id": "ACC-026",
+    "full_name": "Garrett Miller",
+    "phone": "432-555-2876",
+    "email": "garrett.miller@falconenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-066",
+    "account_id": "ACC-026",
+    "full_name": "Beau Dutton",
+    "phone": "432-555-6111",
+    "email": "beau.dutton@falconenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-067",
+    "account_id": "ACC-026",
+    "full_name": "Brett Hawkins",
+    "phone": "432-555-4249",
+    "email": "brett.hawkins@falconenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-068",
+    "account_id": "ACC-027",
+    "full_name": "Dale Holt",
+    "phone": "432-555-2983",
+    "email": "dale.holt@tallenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-069",
+    "account_id": "ACC-027",
+    "full_name": "Wayne McBride",
+    "phone": "432-555-7071",
+    "email": "wayne.mcbride@tallenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-070",
+    "account_id": "ACC-028",
+    "full_name": "Hank Hawkins",
+    "phone": "432-555-2729",
+    "email": "hank.hawkins@dustyenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-071",
+    "account_id": "ACC-028",
+    "full_name": "Garrett Bledsoe",
+    "phone": "432-555-8532",
+    "email": "garrett.bledsoe@dustyenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-072",
+    "account_id": "ACC-028",
+    "full_name": "Clint Miller",
+    "phone": "432-555-5425",
+    "email": "clint.miller@dustyenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-073",
+    "account_id": "ACC-029",
+    "full_name": "Jesse Hawkins",
+    "phone": "432-555-5397",
+    "email": "jesse.hawkins@blueenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-074",
+    "account_id": "ACC-029",
+    "full_name": "Dustin Dutton",
+    "phone": "432-555-8385",
+    "email": "dustin.dutton@blueenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-075",
+    "account_id": "ACC-029",
+    "full_name": "Jesse Collier",
+    "phone": "432-555-7209",
+    "email": "jesse.collier@blueenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-076",
+    "account_id": "ACC-030",
+    "full_name": "Luke McBride",
+    "phone": "432-555-4475",
+    "email": "luke.mcbride@centennialenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-077",
+    "account_id": "ACC-030",
+    "full_name": "Colt McBride",
+    "phone": "432-555-5526",
+    "email": "colt.mcbride@centennialenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-078",
+    "account_id": "ACC-031",
+    "full_name": "Clayton Dutton",
+    "phone": "432-555-7658",
+    "email": "clayton.dutton@ocotilloenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-079",
+    "account_id": "ACC-031",
+    "full_name": "Dustin Holt",
+    "phone": "432-555-9041",
+    "email": "dustin.holt@ocotilloenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-080",
+    "account_id": "ACC-032",
+    "full_name": "Travis Rawlins",
+    "phone": "432-555-4986",
+    "email": "travis.rawlins@rioenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-081",
+    "account_id": "ACC-032",
+    "full_name": "Garrett Hensley",
+    "phone": "432-555-6632",
+    "email": "garrett.hensley@rioenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-082",
+    "account_id": "ACC-033",
+    "full_name": "Garrett Holt",
+    "phone": "432-555-6023",
+    "email": "garrett.holt@mustangenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-083",
+    "account_id": "ACC-033",
+    "full_name": "Dustin Dutton",
+    "phone": "432-555-6169",
+    "email": "dustin.dutton@mustangenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-084",
+    "account_id": "ACC-033",
+    "full_name": "Wyatt Vance",
+    "phone": "432-555-8933",
+    "email": "wyatt.vance@mustangenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-085",
+    "account_id": "ACC-034",
+    "full_name": "Dale Vance",
+    "phone": "432-555-6912",
+    "email": "dale.vance@wildcatenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-086",
+    "account_id": "ACC-034",
+    "full_name": "Beau Callahan",
+    "phone": "432-555-3073",
+    "email": "beau.callahan@wildcatenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-087",
+    "account_id": "ACC-034",
+    "full_name": "Wayne Callahan",
+    "phone": "432-555-3068",
+    "email": "wayne.callahan@wildcatenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-088",
+    "account_id": "ACC-035",
+    "full_name": "Hank Collier",
+    "phone": "432-555-8843",
+    "email": "hank.collier@shaleenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-089",
+    "account_id": "ACC-035",
+    "full_name": "Austin Miller",
+    "phone": "432-555-5136",
+    "email": "austin.miller@shaleenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-090",
+    "account_id": "ACC-036",
+    "full_name": "Travis Hawkins",
+    "phone": "432-555-1878",
+    "email": "travis.hawkins@buffaloenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-091",
+    "account_id": "ACC-036",
+    "full_name": "Cody Collier",
+    "phone": "432-555-2395",
+    "email": "cody.collier@buffaloenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-092",
+    "account_id": "ACC-037",
+    "full_name": "Clint Collier",
+    "phone": "432-555-4697",
+    "email": "clint.collier@frontierenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-093",
+    "account_id": "ACC-037",
+    "full_name": "Brett Hensley",
+    "phone": "432-555-5871",
+    "email": "brett.hensley@frontierenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-094",
+    "account_id": "ACC-038",
+    "full_name": "Beau Collier",
+    "phone": "432-555-2625",
+    "email": "beau.collier@chaparralenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-095",
+    "account_id": "ACC-038",
+    "full_name": "Clayton Rawlins",
+    "phone": "432-555-3573",
+    "email": "clayton.rawlins@chaparralenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-096",
+    "account_id": "ACC-038",
+    "full_name": "Wyatt Garrison",
+    "phone": "432-555-1043",
+    "email": "wyatt.garrison@chaparralenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-097",
+    "account_id": "ACC-039",
+    "full_name": "Luke Rawlins",
+    "phone": "432-555-5720",
+    "email": "luke.rawlins@yuccaenergy.com",
+    "role": "Production Foreman",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-098",
+    "account_id": "ACC-039",
+    "full_name": "Jesse Dutton",
+    "phone": "432-555-5334",
+    "email": "jesse.dutton@yuccaenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 0,
+    "cert_expiration": null
+  },
+  {
+    "contact_id": "CON-099",
+    "account_id": "ACC-039",
+    "full_name": "Clayton Hawkins",
+    "phone": "432-555-4683",
+    "email": "clayton.hawkins@yuccaenergy.com",
+    "role": "Well Site Supervisor",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-100",
+    "account_id": "ACC-040",
+    "full_name": "Cody Dutton",
+    "phone": "432-555-6039",
+    "email": "cody.dutton@southwesternenergy.com",
+    "role": "Frac Lead",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-101",
+    "account_id": "ACC-040",
+    "full_name": "Beau Hensley",
+    "phone": "432-555-5982",
+    "email": "beau.hensley@southwesternenergy.com",
+    "role": "Chemical Coordinator",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  },
+  {
+    "contact_id": "CON-102",
+    "account_id": "ACC-040",
+    "full_name": "Colt Garrison",
+    "phone": "432-555-8172",
+    "email": "colt.garrison@southwesternenergy.com",
+    "role": "Company Man",
+    "has_hazmat_cert": 1,
+    "cert_expiration": "2027-12-31"
+  }
+]

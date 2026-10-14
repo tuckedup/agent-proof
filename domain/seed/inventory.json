@@ -1,0 +1,1682 @@
+[
+  {
+    "inventory_id": 1,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-801",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 2,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-802",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 3,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-803",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 4,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-804",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 5,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-805",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 6,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-806",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 7,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-807",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 8,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-808",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 9,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-809",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 10,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-810",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 11,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-301",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 12,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-302",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 13,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-303",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 14,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-304",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 15,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-305",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 16,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-306",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 17,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-307",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 18,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-308",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 19,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-309",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 20,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-310",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 21,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-901",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 22,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-902",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 23,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-903",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 24,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-101",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 25,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-102",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 26,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-103",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 27,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-104",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 28,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-105",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 29,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-106",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 30,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-107",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 31,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-108",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 32,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-109",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 33,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-110",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 34,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-111",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 35,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-112",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 36,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-113",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 37,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-114",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 38,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-115",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 39,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-116",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 40,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-117",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 41,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-118",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 42,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-119",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 43,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-120",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 44,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-121",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 45,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-122",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 46,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-123",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 47,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-124",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 48,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-125",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 49,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-126",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 50,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-127",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 51,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-128",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 52,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-129",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 53,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-130",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 54,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-131",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 55,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-132",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 56,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-133",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 57,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-134",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 58,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-135",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 59,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-136",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 60,
+    "depot_id": "DEP-MID",
+    "product_id": "CHEM-137",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 61,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-801",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 62,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-802",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 63,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-803",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 64,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-804",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 65,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-805",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 66,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-806",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 67,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-807",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 68,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-808",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 69,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-809",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 70,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-810",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 71,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-301",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 72,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-302",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 73,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-303",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 74,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-304",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 75,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-305",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 76,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-306",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 77,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-307",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 78,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-308",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 79,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-309",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 80,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-310",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 81,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-901",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 82,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-902",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 83,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-903",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 84,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-101",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 85,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-102",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 86,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-103",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 87,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-104",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 88,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-105",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 89,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-106",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 90,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-107",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 91,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-108",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 92,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-109",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 93,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-110",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 94,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-111",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 95,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-112",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 96,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-113",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 97,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-114",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 98,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-115",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 99,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-116",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 100,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-117",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 101,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-118",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 102,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-119",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 103,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-120",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 104,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-121",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 105,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-122",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 106,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-123",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 107,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-124",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 108,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-125",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 109,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-126",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 110,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-127",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 111,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-128",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 112,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-129",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 113,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-130",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 114,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-131",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 115,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-132",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 116,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-133",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 117,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-134",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 118,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-135",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 119,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-136",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 120,
+    "depot_id": "DEP-PEC",
+    "product_id": "CHEM-137",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 121,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-801",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 122,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-802",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 123,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-803",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 124,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-804",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 125,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-805",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 126,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-806",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 127,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-807",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 128,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-808",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 129,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-809",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 130,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-810",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 131,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-301",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 132,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-302",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 133,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-303",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 134,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-304",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 135,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-305",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 136,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-306",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 137,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-307",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 138,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-308",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 139,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-309",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 140,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-310",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 141,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-901",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 142,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-902",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 143,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-903",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 144,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-101",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 145,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-102",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 146,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-103",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 147,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-104",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 148,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-105",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 149,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-106",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 150,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-107",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 151,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-108",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 152,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-109",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 153,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-110",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 154,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-111",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 155,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-112",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 156,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-113",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 157,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-114",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 158,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-115",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 159,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-116",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 160,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-117",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 161,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-118",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 162,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-119",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 163,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-120",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 164,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-121",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 165,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-122",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 166,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-123",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 167,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-124",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 168,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-125",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 169,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-126",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 170,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-127",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 171,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-128",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 172,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-129",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 173,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-130",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 174,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-131",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 175,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-132",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 176,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-133",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 177,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-134",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 178,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-135",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 179,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-136",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 180,
+    "depot_id": "DEP-CAR",
+    "product_id": "CHEM-137",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 181,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-801",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 182,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-802",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 183,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-803",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 184,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-804",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 185,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-805",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 186,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-806",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 187,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-807",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 188,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-808",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 189,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-809",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 190,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-810",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 191,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-301",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 192,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-302",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 193,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-303",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 194,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-304",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 195,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-305",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 196,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-306",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 197,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-307",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 198,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-308",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 199,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-309",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 200,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-310",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 201,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-901",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 202,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-902",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 203,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-903",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 204,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-101",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 205,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-102",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 206,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-103",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 207,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-104",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 208,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-105",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 209,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-106",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 210,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-107",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 211,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-108",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 212,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-109",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 213,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-110",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 214,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-111",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 215,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-112",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 216,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-113",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 217,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-114",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 218,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-115",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 219,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-116",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 220,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-117",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 221,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-118",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 222,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-119",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 223,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-120",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 224,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-121",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 225,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-122",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 226,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-123",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 227,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-124",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 228,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-125",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 229,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-126",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 230,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-127",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 231,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-128",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 232,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-129",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 233,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-130",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 234,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-131",
+    "quantity_available": 5000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 235,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-132",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 236,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-133",
+    "quantity_available": 25000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 237,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-134",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 238,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-135",
+    "quantity_available": 10000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 239,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-136",
+    "quantity_available": 40000.0,
+    "quantity_reserved": 0.0
+  },
+  {
+    "inventory_id": 240,
+    "depot_id": "DEP-ODE",
+    "product_id": "CHEM-137",
+    "quantity_available": 15000.0,
+    "quantity_reserved": 0.0
+  }
+]

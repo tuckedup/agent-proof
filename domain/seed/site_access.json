@@ -1,0 +1,602 @@
+[
+  {
+    "site_code": "SITE-REE-001",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-002",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-UPT-003",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MAR-004",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-REE-005",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-006",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-007",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-UPT-008",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-009",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-010",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-011",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-012",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-UPT-013",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-014",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-015",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-016",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-017",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-UPT-018",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-019",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-020",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-UPT-021",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-CUL-022",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-CUL-023",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-024",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-REE-025",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-026",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MID-027",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-REE-028",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-REE-029",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-WAR-030",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MAR-031",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-WAR-032",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-033",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-UPT-034",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MID-035",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MAR-036",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-037",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-038",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-UPT-039",
+    "road_status": "closed",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-REE-040",
+    "road_status": "closed",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MID-041",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-UPT-042",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-REE-043",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MAR-044",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-UPT-045",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-046",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-047",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-048",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-049",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MID-050",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-051",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MID-052",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-053",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-054",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-055",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MAR-056",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-057",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-058",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-REE-059",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-060",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-REE-061",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-062",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-WAR-063",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-064",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-065",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-UPT-066",
+    "road_status": "closed",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-067",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-068",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MAR-069",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-070",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-071",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-CUL-072",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-073",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-074",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MAR-075",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MID-076",
+    "road_status": "closed",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MAR-077",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-078",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-079",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-UPT-080",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-081",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-082",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-CUL-083",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-084",
+    "road_status": "closed",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-085",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-086",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MAR-087",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-WAR-088",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-WAR-089",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-090",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MID-091",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MAR-092",
+    "road_status": "closed",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-WAR-093",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-094",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-095",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-096",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-097",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-WAR-098",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-UPT-099",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-100",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-101",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MAR-102",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-103",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MAR-104",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-REE-105",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-106",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-107",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MID-108",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-WAR-109",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-WAR-110",
+    "road_status": "closed",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-111",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-WAR-112",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-113",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-HOW-114",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-115",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-LOV-116",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-CUL-117",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-AND-118",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-GLA-119",
+    "road_status": "open",
+    "updated_at": "2026-10-14T06:00:00Z"
+  },
+  {
+    "site_code": "SITE-MID-120",
+    "road_status": "restricted_wet",
+    "updated_at": "2026-10-14T06:00:00Z"
+  }
+]

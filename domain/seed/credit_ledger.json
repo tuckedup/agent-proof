@@ -1,0 +1,2342 @@
+[
+  {
+    "entry_id": 1,
+    "account_id": "ACC-001",
+    "entry_type": "credit_grant",
+    "amount": 250000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 2,
+    "account_id": "ACC-002",
+    "entry_type": "credit_grant",
+    "amount": 50000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 3,
+    "account_id": "ACC-003",
+    "entry_type": "credit_grant",
+    "amount": 100000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 4,
+    "account_id": "ACC-004",
+    "entry_type": "credit_grant",
+    "amount": 75000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 5,
+    "account_id": "ACC-005",
+    "entry_type": "credit_grant",
+    "amount": 250000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 6,
+    "account_id": "ACC-006",
+    "entry_type": "credit_grant",
+    "amount": 250000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 7,
+    "account_id": "ACC-007",
+    "entry_type": "credit_grant",
+    "amount": 200000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 8,
+    "account_id": "ACC-008",
+    "entry_type": "credit_grant",
+    "amount": 200000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 9,
+    "account_id": "ACC-009",
+    "entry_type": "credit_grant",
+    "amount": 50000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 10,
+    "account_id": "ACC-010",
+    "entry_type": "credit_grant",
+    "amount": 50000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 11,
+    "account_id": "ACC-011",
+    "entry_type": "credit_grant",
+    "amount": 75000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 12,
+    "account_id": "ACC-012",
+    "entry_type": "credit_grant",
+    "amount": 200000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 13,
+    "account_id": "ACC-013",
+    "entry_type": "credit_grant",
+    "amount": 200000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 14,
+    "account_id": "ACC-014",
+    "entry_type": "credit_grant",
+    "amount": 250000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 15,
+    "account_id": "ACC-015",
+    "entry_type": "credit_grant",
+    "amount": 250000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 16,
+    "account_id": "ACC-016",
+    "entry_type": "credit_grant",
+    "amount": 150000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 17,
+    "account_id": "ACC-017",
+    "entry_type": "credit_grant",
+    "amount": 150000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 18,
+    "account_id": "ACC-018",
+    "entry_type": "credit_grant",
+    "amount": 100000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 19,
+    "account_id": "ACC-019",
+    "entry_type": "credit_grant",
+    "amount": 75000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 20,
+    "account_id": "ACC-020",
+    "entry_type": "credit_grant",
+    "amount": 150000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 21,
+    "account_id": "ACC-021",
+    "entry_type": "credit_grant",
+    "amount": 100000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 22,
+    "account_id": "ACC-022",
+    "entry_type": "credit_grant",
+    "amount": 75000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 23,
+    "account_id": "ACC-023",
+    "entry_type": "credit_grant",
+    "amount": 50000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 24,
+    "account_id": "ACC-024",
+    "entry_type": "credit_grant",
+    "amount": 150000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 25,
+    "account_id": "ACC-025",
+    "entry_type": "credit_grant",
+    "amount": 100000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 26,
+    "account_id": "ACC-026",
+    "entry_type": "credit_grant",
+    "amount": 200000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 27,
+    "account_id": "ACC-027",
+    "entry_type": "credit_grant",
+    "amount": 50000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 28,
+    "account_id": "ACC-028",
+    "entry_type": "credit_grant",
+    "amount": 150000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 29,
+    "account_id": "ACC-029",
+    "entry_type": "credit_grant",
+    "amount": 50000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 30,
+    "account_id": "ACC-030",
+    "entry_type": "credit_grant",
+    "amount": 50000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 31,
+    "account_id": "ACC-031",
+    "entry_type": "credit_grant",
+    "amount": 100000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 32,
+    "account_id": "ACC-032",
+    "entry_type": "credit_grant",
+    "amount": 200000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 33,
+    "account_id": "ACC-033",
+    "entry_type": "credit_grant",
+    "amount": 200000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 34,
+    "account_id": "ACC-034",
+    "entry_type": "credit_grant",
+    "amount": 250000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 35,
+    "account_id": "ACC-035",
+    "entry_type": "credit_grant",
+    "amount": 50000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 36,
+    "account_id": "ACC-036",
+    "entry_type": "credit_grant",
+    "amount": 75000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 37,
+    "account_id": "ACC-037",
+    "entry_type": "credit_grant",
+    "amount": 50000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 38,
+    "account_id": "ACC-038",
+    "entry_type": "credit_grant",
+    "amount": 50000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 39,
+    "account_id": "ACC-039",
+    "entry_type": "credit_grant",
+    "amount": 100000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 40,
+    "account_id": "ACC-040",
+    "entry_type": "credit_grant",
+    "amount": 250000.0,
+    "order_id": null,
+    "timestamp": "2024-01-01T00:00:00Z",
+    "description": "Initial credit facility approved."
+  },
+  {
+    "entry_id": 41,
+    "account_id": "ACC-022",
+    "entry_type": "invoice",
+    "amount": -12780.0,
+    "order_id": "ORD-0001",
+    "timestamp": "2026-09-02T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0001"
+  },
+  {
+    "entry_id": 42,
+    "account_id": "ACC-026",
+    "entry_type": "invoice",
+    "amount": -20300.0,
+    "order_id": "ORD-0002",
+    "timestamp": "2026-09-03T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0002"
+  },
+  {
+    "entry_id": 43,
+    "account_id": "ACC-017",
+    "entry_type": "invoice",
+    "amount": -18340.0,
+    "order_id": "ORD-0004",
+    "timestamp": "2026-09-05T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0004"
+  },
+  {
+    "entry_id": 44,
+    "account_id": "ACC-040",
+    "entry_type": "invoice",
+    "amount": -35650.0,
+    "order_id": "ORD-0005",
+    "timestamp": "2026-09-06T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0005"
+  },
+  {
+    "entry_id": 45,
+    "account_id": "ACC-008",
+    "entry_type": "invoice",
+    "amount": -11390.0,
+    "order_id": "ORD-0006",
+    "timestamp": "2026-09-07T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0006"
+  },
+  {
+    "entry_id": 46,
+    "account_id": "ACC-008",
+    "entry_type": "invoice",
+    "amount": -41150.0,
+    "order_id": "ORD-0007",
+    "timestamp": "2026-09-08T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0007"
+  },
+  {
+    "entry_id": 47,
+    "account_id": "ACC-038",
+    "entry_type": "invoice",
+    "amount": -22700.0,
+    "order_id": "ORD-0008",
+    "timestamp": "2026-09-09T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0008"
+  },
+  {
+    "entry_id": 48,
+    "account_id": "ACC-018",
+    "entry_type": "invoice",
+    "amount": -8320.0,
+    "order_id": "ORD-0009",
+    "timestamp": "2026-09-10T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0009"
+  },
+  {
+    "entry_id": 49,
+    "account_id": "ACC-016",
+    "entry_type": "invoice",
+    "amount": -18195.0,
+    "order_id": "ORD-0010",
+    "timestamp": "2026-09-11T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0010"
+  },
+  {
+    "entry_id": 50,
+    "account_id": "ACC-018",
+    "entry_type": "invoice",
+    "amount": -3760.0,
+    "order_id": "ORD-0011",
+    "timestamp": "2026-09-12T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0011"
+  },
+  {
+    "entry_id": 51,
+    "account_id": "ACC-004",
+    "entry_type": "invoice",
+    "amount": -29000.0,
+    "order_id": "ORD-0012",
+    "timestamp": "2026-09-13T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0012"
+  },
+  {
+    "entry_id": 52,
+    "account_id": "ACC-015",
+    "entry_type": "invoice",
+    "amount": -28980.0,
+    "order_id": "ORD-0014",
+    "timestamp": "2026-09-15T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0014"
+  },
+  {
+    "entry_id": 53,
+    "account_id": "ACC-017",
+    "entry_type": "invoice",
+    "amount": -15120.0,
+    "order_id": "ORD-0015",
+    "timestamp": "2026-09-16T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0015"
+  },
+  {
+    "entry_id": 54,
+    "account_id": "ACC-038",
+    "entry_type": "invoice",
+    "amount": -3360.0,
+    "order_id": "ORD-0016",
+    "timestamp": "2026-09-17T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0016"
+  },
+  {
+    "entry_id": 55,
+    "account_id": "ACC-009",
+    "entry_type": "invoice",
+    "amount": -30760.0,
+    "order_id": "ORD-0017",
+    "timestamp": "2026-09-18T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0017"
+  },
+  {
+    "entry_id": 56,
+    "account_id": "ACC-033",
+    "entry_type": "invoice",
+    "amount": -19170.0,
+    "order_id": "ORD-0018",
+    "timestamp": "2026-09-19T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0018"
+  },
+  {
+    "entry_id": 57,
+    "account_id": "ACC-028",
+    "entry_type": "invoice",
+    "amount": -26600.0,
+    "order_id": "ORD-0020",
+    "timestamp": "2026-09-21T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0020"
+  },
+  {
+    "entry_id": 58,
+    "account_id": "ACC-039",
+    "entry_type": "invoice",
+    "amount": -35290.0,
+    "order_id": "ORD-0023",
+    "timestamp": "2026-09-24T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0023"
+  },
+  {
+    "entry_id": 59,
+    "account_id": "ACC-029",
+    "entry_type": "invoice",
+    "amount": -37460.0,
+    "order_id": "ORD-0024",
+    "timestamp": "2026-09-25T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0024"
+  },
+  {
+    "entry_id": 60,
+    "account_id": "ACC-007",
+    "entry_type": "invoice",
+    "amount": -10880.0,
+    "order_id": "ORD-0025",
+    "timestamp": "2026-09-26T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0025"
+  },
+  {
+    "entry_id": 61,
+    "account_id": "ACC-031",
+    "entry_type": "invoice",
+    "amount": -5850.0,
+    "order_id": "ORD-0026",
+    "timestamp": "2026-09-27T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0026"
+  },
+  {
+    "entry_id": 62,
+    "account_id": "ACC-007",
+    "entry_type": "invoice",
+    "amount": -3540.0,
+    "order_id": "ORD-0027",
+    "timestamp": "2026-09-28T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0027"
+  },
+  {
+    "entry_id": 63,
+    "account_id": "ACC-028",
+    "entry_type": "invoice",
+    "amount": -61850.0,
+    "order_id": "ORD-0029",
+    "timestamp": "2026-09-02T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0029"
+  },
+  {
+    "entry_id": 64,
+    "account_id": "ACC-037",
+    "entry_type": "invoice",
+    "amount": -5440.0,
+    "order_id": "ORD-0030",
+    "timestamp": "2026-09-03T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0030"
+  },
+  {
+    "entry_id": 65,
+    "account_id": "ACC-015",
+    "entry_type": "invoice",
+    "amount": -49100.0,
+    "order_id": "ORD-0031",
+    "timestamp": "2026-09-04T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0031"
+  },
+  {
+    "entry_id": 66,
+    "account_id": "ACC-012",
+    "entry_type": "invoice",
+    "amount": -16200.0,
+    "order_id": "ORD-0033",
+    "timestamp": "2026-09-06T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0033"
+  },
+  {
+    "entry_id": 67,
+    "account_id": "ACC-037",
+    "entry_type": "invoice",
+    "amount": -2840.0,
+    "order_id": "ORD-0034",
+    "timestamp": "2026-09-07T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0034"
+  },
+  {
+    "entry_id": 68,
+    "account_id": "ACC-030",
+    "entry_type": "invoice",
+    "amount": -43040.0,
+    "order_id": "ORD-0036",
+    "timestamp": "2026-09-09T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0036"
+  },
+  {
+    "entry_id": 69,
+    "account_id": "ACC-039",
+    "entry_type": "invoice",
+    "amount": -930.0,
+    "order_id": "ORD-0037",
+    "timestamp": "2026-09-10T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0037"
+  },
+  {
+    "entry_id": 70,
+    "account_id": "ACC-006",
+    "entry_type": "invoice",
+    "amount": -74400.0,
+    "order_id": "ORD-0038",
+    "timestamp": "2026-09-11T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0038"
+  },
+  {
+    "entry_id": 71,
+    "account_id": "ACC-014",
+    "entry_type": "invoice",
+    "amount": -27950.0,
+    "order_id": "ORD-0039",
+    "timestamp": "2026-09-12T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0039"
+  },
+  {
+    "entry_id": 72,
+    "account_id": "ACC-020",
+    "entry_type": "invoice",
+    "amount": -12080.0,
+    "order_id": "ORD-0041",
+    "timestamp": "2026-09-14T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0041"
+  },
+  {
+    "entry_id": 73,
+    "account_id": "ACC-032",
+    "entry_type": "invoice",
+    "amount": -6720.0,
+    "order_id": "ORD-0042",
+    "timestamp": "2026-09-15T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0042"
+  },
+  {
+    "entry_id": 74,
+    "account_id": "ACC-035",
+    "entry_type": "invoice",
+    "amount": -27740.0,
+    "order_id": "ORD-0043",
+    "timestamp": "2026-09-16T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0043"
+  },
+  {
+    "entry_id": 75,
+    "account_id": "ACC-003",
+    "entry_type": "invoice",
+    "amount": -22600.0,
+    "order_id": "ORD-0044",
+    "timestamp": "2026-09-17T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0044"
+  },
+  {
+    "entry_id": 76,
+    "account_id": "ACC-028",
+    "entry_type": "invoice",
+    "amount": -44920.0,
+    "order_id": "ORD-0045",
+    "timestamp": "2026-09-18T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0045"
+  },
+  {
+    "entry_id": 77,
+    "account_id": "ACC-028",
+    "entry_type": "invoice",
+    "amount": -14600.0,
+    "order_id": "ORD-0047",
+    "timestamp": "2026-09-20T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0047"
+  },
+  {
+    "entry_id": 78,
+    "account_id": "ACC-026",
+    "entry_type": "invoice",
+    "amount": -15400.0,
+    "order_id": "ORD-0048",
+    "timestamp": "2026-09-21T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0048"
+  },
+  {
+    "entry_id": 79,
+    "account_id": "ACC-012",
+    "entry_type": "invoice",
+    "amount": -95200.0,
+    "order_id": "ORD-0052",
+    "timestamp": "2026-09-25T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0052"
+  },
+  {
+    "entry_id": 80,
+    "account_id": "ACC-029",
+    "entry_type": "invoice",
+    "amount": -18540.0,
+    "order_id": "ORD-0054",
+    "timestamp": "2026-09-27T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0054"
+  },
+  {
+    "entry_id": 81,
+    "account_id": "ACC-005",
+    "entry_type": "invoice",
+    "amount": -21860.0,
+    "order_id": "ORD-0055",
+    "timestamp": "2026-09-28T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0055"
+  },
+  {
+    "entry_id": 82,
+    "account_id": "ACC-005",
+    "entry_type": "invoice",
+    "amount": -102710.0,
+    "order_id": "ORD-0056",
+    "timestamp": "2026-09-01T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0056"
+  },
+  {
+    "entry_id": 83,
+    "account_id": "ACC-004",
+    "entry_type": "invoice",
+    "amount": -29730.0,
+    "order_id": "ORD-0058",
+    "timestamp": "2026-09-03T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0058"
+  },
+  {
+    "entry_id": 84,
+    "account_id": "ACC-003",
+    "entry_type": "invoice",
+    "amount": -90870.0,
+    "order_id": "ORD-0059",
+    "timestamp": "2026-09-04T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0059"
+  },
+  {
+    "entry_id": 85,
+    "account_id": "ACC-024",
+    "entry_type": "invoice",
+    "amount": -31260.0,
+    "order_id": "ORD-0060",
+    "timestamp": "2026-09-05T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0060"
+  },
+  {
+    "entry_id": 86,
+    "account_id": "ACC-005",
+    "entry_type": "invoice",
+    "amount": -38140.0,
+    "order_id": "ORD-0061",
+    "timestamp": "2026-09-06T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0061"
+  },
+  {
+    "entry_id": 87,
+    "account_id": "ACC-014",
+    "entry_type": "invoice",
+    "amount": -5700.0,
+    "order_id": "ORD-0065",
+    "timestamp": "2026-09-10T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0065"
+  },
+  {
+    "entry_id": 88,
+    "account_id": "ACC-010",
+    "entry_type": "invoice",
+    "amount": -13110.0,
+    "order_id": "ORD-0066",
+    "timestamp": "2026-09-11T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0066"
+  },
+  {
+    "entry_id": 89,
+    "account_id": "ACC-003",
+    "entry_type": "invoice",
+    "amount": -38010.0,
+    "order_id": "ORD-0069",
+    "timestamp": "2026-09-14T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0069"
+  },
+  {
+    "entry_id": 90,
+    "account_id": "ACC-035",
+    "entry_type": "invoice",
+    "amount": -29580.0,
+    "order_id": "ORD-0070",
+    "timestamp": "2026-09-15T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0070"
+  },
+  {
+    "entry_id": 91,
+    "account_id": "ACC-037",
+    "entry_type": "invoice",
+    "amount": -45180.0,
+    "order_id": "ORD-0071",
+    "timestamp": "2026-09-16T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0071"
+  },
+  {
+    "entry_id": 92,
+    "account_id": "ACC-027",
+    "entry_type": "invoice",
+    "amount": -32660.0,
+    "order_id": "ORD-0072",
+    "timestamp": "2026-09-17T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0072"
+  },
+  {
+    "entry_id": 93,
+    "account_id": "ACC-011",
+    "entry_type": "invoice",
+    "amount": -40300.0,
+    "order_id": "ORD-0074",
+    "timestamp": "2026-09-19T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0074"
+  },
+  {
+    "entry_id": 94,
+    "account_id": "ACC-023",
+    "entry_type": "invoice",
+    "amount": -7380.0,
+    "order_id": "ORD-0075",
+    "timestamp": "2026-09-20T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0075"
+  },
+  {
+    "entry_id": 95,
+    "account_id": "ACC-024",
+    "entry_type": "invoice",
+    "amount": -6750.0,
+    "order_id": "ORD-0076",
+    "timestamp": "2026-09-21T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0076"
+  },
+  {
+    "entry_id": 96,
+    "account_id": "ACC-002",
+    "entry_type": "invoice",
+    "amount": -22650.0,
+    "order_id": "ORD-0077",
+    "timestamp": "2026-09-22T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0077"
+  },
+  {
+    "entry_id": 97,
+    "account_id": "ACC-019",
+    "entry_type": "invoice",
+    "amount": -18040.0,
+    "order_id": "ORD-0078",
+    "timestamp": "2026-09-23T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0078"
+  },
+  {
+    "entry_id": 98,
+    "account_id": "ACC-017",
+    "entry_type": "invoice",
+    "amount": -58760.0,
+    "order_id": "ORD-0079",
+    "timestamp": "2026-09-24T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0079"
+  },
+  {
+    "entry_id": 99,
+    "account_id": "ACC-016",
+    "entry_type": "invoice",
+    "amount": -13200.0,
+    "order_id": "ORD-0080",
+    "timestamp": "2026-09-25T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0080"
+  },
+  {
+    "entry_id": 100,
+    "account_id": "ACC-040",
+    "entry_type": "invoice",
+    "amount": -33660.0,
+    "order_id": "ORD-0081",
+    "timestamp": "2026-09-26T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0081"
+  },
+  {
+    "entry_id": 101,
+    "account_id": "ACC-039",
+    "entry_type": "invoice",
+    "amount": -44290.0,
+    "order_id": "ORD-0082",
+    "timestamp": "2026-09-27T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0082"
+  },
+  {
+    "entry_id": 102,
+    "account_id": "ACC-001",
+    "entry_type": "invoice",
+    "amount": -36750.0,
+    "order_id": "ORD-0083",
+    "timestamp": "2026-09-28T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0083"
+  },
+  {
+    "entry_id": 103,
+    "account_id": "ACC-024",
+    "entry_type": "invoice",
+    "amount": -25510.0,
+    "order_id": "ORD-0086",
+    "timestamp": "2026-09-03T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0086"
+  },
+  {
+    "entry_id": 104,
+    "account_id": "ACC-007",
+    "entry_type": "invoice",
+    "amount": -16250.0,
+    "order_id": "ORD-0087",
+    "timestamp": "2026-09-04T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0087"
+  },
+  {
+    "entry_id": 105,
+    "account_id": "ACC-031",
+    "entry_type": "invoice",
+    "amount": -11840.0,
+    "order_id": "ORD-0089",
+    "timestamp": "2026-09-06T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0089"
+  },
+  {
+    "entry_id": 106,
+    "account_id": "ACC-003",
+    "entry_type": "invoice",
+    "amount": -11600.0,
+    "order_id": "ORD-0090",
+    "timestamp": "2026-09-07T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0090"
+  },
+  {
+    "entry_id": 107,
+    "account_id": "ACC-003",
+    "entry_type": "invoice",
+    "amount": -22595.0,
+    "order_id": "ORD-0091",
+    "timestamp": "2026-09-08T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0091"
+  },
+  {
+    "entry_id": 108,
+    "account_id": "ACC-013",
+    "entry_type": "invoice",
+    "amount": -11760.0,
+    "order_id": "ORD-0092",
+    "timestamp": "2026-09-09T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0092"
+  },
+  {
+    "entry_id": 109,
+    "account_id": "ACC-018",
+    "entry_type": "invoice",
+    "amount": -28140.0,
+    "order_id": "ORD-0093",
+    "timestamp": "2026-09-10T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0093"
+  },
+  {
+    "entry_id": 110,
+    "account_id": "ACC-022",
+    "entry_type": "invoice",
+    "amount": -31020.0,
+    "order_id": "ORD-0094",
+    "timestamp": "2026-09-11T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0094"
+  },
+  {
+    "entry_id": 111,
+    "account_id": "ACC-028",
+    "entry_type": "invoice",
+    "amount": -23565.0,
+    "order_id": "ORD-0095",
+    "timestamp": "2026-09-12T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0095"
+  },
+  {
+    "entry_id": 112,
+    "account_id": "ACC-023",
+    "entry_type": "invoice",
+    "amount": -27050.0,
+    "order_id": "ORD-0097",
+    "timestamp": "2026-09-14T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0097"
+  },
+  {
+    "entry_id": 113,
+    "account_id": "ACC-039",
+    "entry_type": "invoice",
+    "amount": -1920.0,
+    "order_id": "ORD-0099",
+    "timestamp": "2026-09-16T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0099"
+  },
+  {
+    "entry_id": 114,
+    "account_id": "ACC-016",
+    "entry_type": "invoice",
+    "amount": -17370.0,
+    "order_id": "ORD-0100",
+    "timestamp": "2026-09-17T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0100"
+  },
+  {
+    "entry_id": 115,
+    "account_id": "ACC-029",
+    "entry_type": "invoice",
+    "amount": -60440.0,
+    "order_id": "ORD-0101",
+    "timestamp": "2026-09-18T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0101"
+  },
+  {
+    "entry_id": 116,
+    "account_id": "ACC-034",
+    "entry_type": "invoice",
+    "amount": -15900.0,
+    "order_id": "ORD-0102",
+    "timestamp": "2026-09-19T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0102"
+  },
+  {
+    "entry_id": 117,
+    "account_id": "ACC-002",
+    "entry_type": "invoice",
+    "amount": -21740.0,
+    "order_id": "ORD-0103",
+    "timestamp": "2026-09-20T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0103"
+  },
+  {
+    "entry_id": 118,
+    "account_id": "ACC-017",
+    "entry_type": "invoice",
+    "amount": -71500.0,
+    "order_id": "ORD-0104",
+    "timestamp": "2026-09-21T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0104"
+  },
+  {
+    "entry_id": 119,
+    "account_id": "ACC-032",
+    "entry_type": "invoice",
+    "amount": -3480.0,
+    "order_id": "ORD-0105",
+    "timestamp": "2026-09-22T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0105"
+  },
+  {
+    "entry_id": 120,
+    "account_id": "ACC-029",
+    "entry_type": "invoice",
+    "amount": -21840.0,
+    "order_id": "ORD-0106",
+    "timestamp": "2026-09-23T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0106"
+  },
+  {
+    "entry_id": 121,
+    "account_id": "ACC-023",
+    "entry_type": "invoice",
+    "amount": -22285.0,
+    "order_id": "ORD-0107",
+    "timestamp": "2026-09-24T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0107"
+  },
+  {
+    "entry_id": 122,
+    "account_id": "ACC-024",
+    "entry_type": "invoice",
+    "amount": -4740.0,
+    "order_id": "ORD-0108",
+    "timestamp": "2026-09-25T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0108"
+  },
+  {
+    "entry_id": 123,
+    "account_id": "ACC-016",
+    "entry_type": "invoice",
+    "amount": -54540.0,
+    "order_id": "ORD-0109",
+    "timestamp": "2026-09-26T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0109"
+  },
+  {
+    "entry_id": 124,
+    "account_id": "ACC-026",
+    "entry_type": "invoice",
+    "amount": -27420.0,
+    "order_id": "ORD-0111",
+    "timestamp": "2026-09-28T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0111"
+  },
+  {
+    "entry_id": 125,
+    "account_id": "ACC-021",
+    "entry_type": "invoice",
+    "amount": -36160.0,
+    "order_id": "ORD-0112",
+    "timestamp": "2026-09-01T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0112"
+  },
+  {
+    "entry_id": 126,
+    "account_id": "ACC-034",
+    "entry_type": "invoice",
+    "amount": -3720.0,
+    "order_id": "ORD-0114",
+    "timestamp": "2026-09-03T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0114"
+  },
+  {
+    "entry_id": 127,
+    "account_id": "ACC-036",
+    "entry_type": "invoice",
+    "amount": -123705.0,
+    "order_id": "ORD-0116",
+    "timestamp": "2026-09-05T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0116"
+  },
+  {
+    "entry_id": 128,
+    "account_id": "ACC-038",
+    "entry_type": "invoice",
+    "amount": -3840.0,
+    "order_id": "ORD-0117",
+    "timestamp": "2026-09-06T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0117"
+  },
+  {
+    "entry_id": 129,
+    "account_id": "ACC-037",
+    "entry_type": "invoice",
+    "amount": -25000.0,
+    "order_id": "ORD-0118",
+    "timestamp": "2026-09-07T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0118"
+  },
+  {
+    "entry_id": 130,
+    "account_id": "ACC-017",
+    "entry_type": "invoice",
+    "amount": -235260.0,
+    "order_id": "ORD-0119",
+    "timestamp": "2026-09-08T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0119"
+  },
+  {
+    "entry_id": 131,
+    "account_id": "ACC-019",
+    "entry_type": "invoice",
+    "amount": -32340.0,
+    "order_id": "ORD-0120",
+    "timestamp": "2026-09-09T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0120"
+  },
+  {
+    "entry_id": 132,
+    "account_id": "ACC-030",
+    "entry_type": "invoice",
+    "amount": -7800.0,
+    "order_id": "ORD-0121",
+    "timestamp": "2026-09-10T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0121"
+  },
+  {
+    "entry_id": 133,
+    "account_id": "ACC-031",
+    "entry_type": "invoice",
+    "amount": -71040.0,
+    "order_id": "ORD-0122",
+    "timestamp": "2026-09-11T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0122"
+  },
+  {
+    "entry_id": 134,
+    "account_id": "ACC-023",
+    "entry_type": "invoice",
+    "amount": -17610.0,
+    "order_id": "ORD-0123",
+    "timestamp": "2026-09-12T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0123"
+  },
+  {
+    "entry_id": 135,
+    "account_id": "ACC-016",
+    "entry_type": "invoice",
+    "amount": -7520.0,
+    "order_id": "ORD-0124",
+    "timestamp": "2026-09-13T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0124"
+  },
+  {
+    "entry_id": 136,
+    "account_id": "ACC-004",
+    "entry_type": "invoice",
+    "amount": -34570.0,
+    "order_id": "ORD-0125",
+    "timestamp": "2026-09-14T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0125"
+  },
+  {
+    "entry_id": 137,
+    "account_id": "ACC-021",
+    "entry_type": "invoice",
+    "amount": -24930.0,
+    "order_id": "ORD-0126",
+    "timestamp": "2026-09-15T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0126"
+  },
+  {
+    "entry_id": 138,
+    "account_id": "ACC-032",
+    "entry_type": "invoice",
+    "amount": -15810.0,
+    "order_id": "ORD-0127",
+    "timestamp": "2026-09-16T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0127"
+  },
+  {
+    "entry_id": 139,
+    "account_id": "ACC-038",
+    "entry_type": "invoice",
+    "amount": -30600.0,
+    "order_id": "ORD-0128",
+    "timestamp": "2026-09-17T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0128"
+  },
+  {
+    "entry_id": 140,
+    "account_id": "ACC-017",
+    "entry_type": "invoice",
+    "amount": -14250.0,
+    "order_id": "ORD-0130",
+    "timestamp": "2026-09-19T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0130"
+  },
+  {
+    "entry_id": 141,
+    "account_id": "ACC-037",
+    "entry_type": "invoice",
+    "amount": -29920.0,
+    "order_id": "ORD-0131",
+    "timestamp": "2026-09-20T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0131"
+  },
+  {
+    "entry_id": 142,
+    "account_id": "ACC-007",
+    "entry_type": "invoice",
+    "amount": -13080.0,
+    "order_id": "ORD-0133",
+    "timestamp": "2026-09-22T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0133"
+  },
+  {
+    "entry_id": 143,
+    "account_id": "ACC-039",
+    "entry_type": "invoice",
+    "amount": -50160.0,
+    "order_id": "ORD-0134",
+    "timestamp": "2026-09-23T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0134"
+  },
+  {
+    "entry_id": 144,
+    "account_id": "ACC-040",
+    "entry_type": "invoice",
+    "amount": -86370.0,
+    "order_id": "ORD-0136",
+    "timestamp": "2026-09-25T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0136"
+  },
+  {
+    "entry_id": 145,
+    "account_id": "ACC-037",
+    "entry_type": "invoice",
+    "amount": -9000.0,
+    "order_id": "ORD-0137",
+    "timestamp": "2026-09-26T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0137"
+  },
+  {
+    "entry_id": 146,
+    "account_id": "ACC-037",
+    "entry_type": "invoice",
+    "amount": -10880.0,
+    "order_id": "ORD-0141",
+    "timestamp": "2026-09-02T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0141"
+  },
+  {
+    "entry_id": 147,
+    "account_id": "ACC-021",
+    "entry_type": "invoice",
+    "amount": -33060.0,
+    "order_id": "ORD-0142",
+    "timestamp": "2026-09-03T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0142"
+  },
+  {
+    "entry_id": 148,
+    "account_id": "ACC-040",
+    "entry_type": "invoice",
+    "amount": -32280.0,
+    "order_id": "ORD-0143",
+    "timestamp": "2026-09-04T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0143"
+  },
+  {
+    "entry_id": 149,
+    "account_id": "ACC-034",
+    "entry_type": "invoice",
+    "amount": -22800.0,
+    "order_id": "ORD-0144",
+    "timestamp": "2026-09-05T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0144"
+  },
+  {
+    "entry_id": 150,
+    "account_id": "ACC-022",
+    "entry_type": "invoice",
+    "amount": -46860.0,
+    "order_id": "ORD-0145",
+    "timestamp": "2026-09-06T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0145"
+  },
+  {
+    "entry_id": 151,
+    "account_id": "ACC-032",
+    "entry_type": "invoice",
+    "amount": -34900.0,
+    "order_id": "ORD-0147",
+    "timestamp": "2026-09-08T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0147"
+  },
+  {
+    "entry_id": 152,
+    "account_id": "ACC-006",
+    "entry_type": "invoice",
+    "amount": -40680.0,
+    "order_id": "ORD-0149",
+    "timestamp": "2026-09-10T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0149"
+  },
+  {
+    "entry_id": 153,
+    "account_id": "ACC-018",
+    "entry_type": "invoice",
+    "amount": -11000.0,
+    "order_id": "ORD-0150",
+    "timestamp": "2026-09-11T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0150"
+  },
+  {
+    "entry_id": 154,
+    "account_id": "ACC-016",
+    "entry_type": "invoice",
+    "amount": -11800.0,
+    "order_id": "ORD-0151",
+    "timestamp": "2026-09-12T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0151"
+  },
+  {
+    "entry_id": 155,
+    "account_id": "ACC-027",
+    "entry_type": "invoice",
+    "amount": -6720.0,
+    "order_id": "ORD-0152",
+    "timestamp": "2026-09-13T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0152"
+  },
+  {
+    "entry_id": 156,
+    "account_id": "ACC-001",
+    "entry_type": "invoice",
+    "amount": -50150.0,
+    "order_id": "ORD-0153",
+    "timestamp": "2026-09-14T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0153"
+  },
+  {
+    "entry_id": 157,
+    "account_id": "ACC-013",
+    "entry_type": "invoice",
+    "amount": -13600.0,
+    "order_id": "ORD-0154",
+    "timestamp": "2026-09-15T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0154"
+  },
+  {
+    "entry_id": 158,
+    "account_id": "ACC-015",
+    "entry_type": "invoice",
+    "amount": -4410.0,
+    "order_id": "ORD-0155",
+    "timestamp": "2026-09-16T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0155"
+  },
+  {
+    "entry_id": 159,
+    "account_id": "ACC-003",
+    "entry_type": "invoice",
+    "amount": -23100.0,
+    "order_id": "ORD-0156",
+    "timestamp": "2026-09-17T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0156"
+  },
+  {
+    "entry_id": 160,
+    "account_id": "ACC-003",
+    "entry_type": "invoice",
+    "amount": -93650.0,
+    "order_id": "ORD-0157",
+    "timestamp": "2026-09-18T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0157"
+  },
+  {
+    "entry_id": 161,
+    "account_id": "ACC-035",
+    "entry_type": "invoice",
+    "amount": -15660.0,
+    "order_id": "ORD-0158",
+    "timestamp": "2026-09-19T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0158"
+  },
+  {
+    "entry_id": 162,
+    "account_id": "ACC-030",
+    "entry_type": "invoice",
+    "amount": -15400.0,
+    "order_id": "ORD-0159",
+    "timestamp": "2026-09-20T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0159"
+  },
+  {
+    "entry_id": 163,
+    "account_id": "ACC-030",
+    "entry_type": "invoice",
+    "amount": -19075.0,
+    "order_id": "ORD-0160",
+    "timestamp": "2026-09-21T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0160"
+  },
+  {
+    "entry_id": 164,
+    "account_id": "ACC-016",
+    "entry_type": "invoice",
+    "amount": -15040.0,
+    "order_id": "ORD-0163",
+    "timestamp": "2026-09-24T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0163"
+  },
+  {
+    "entry_id": 165,
+    "account_id": "ACC-033",
+    "entry_type": "invoice",
+    "amount": -99370.0,
+    "order_id": "ORD-0166",
+    "timestamp": "2026-09-27T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0166"
+  },
+  {
+    "entry_id": 166,
+    "account_id": "ACC-015",
+    "entry_type": "invoice",
+    "amount": -15600.0,
+    "order_id": "ORD-0167",
+    "timestamp": "2026-09-28T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0167"
+  },
+  {
+    "entry_id": 167,
+    "account_id": "ACC-037",
+    "entry_type": "invoice",
+    "amount": -27450.0,
+    "order_id": "ORD-0170",
+    "timestamp": "2026-09-03T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0170"
+  },
+  {
+    "entry_id": 168,
+    "account_id": "ACC-033",
+    "entry_type": "invoice",
+    "amount": -24770.0,
+    "order_id": "ORD-0173",
+    "timestamp": "2026-09-06T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0173"
+  },
+  {
+    "entry_id": 169,
+    "account_id": "ACC-017",
+    "entry_type": "invoice",
+    "amount": -34570.0,
+    "order_id": "ORD-0174",
+    "timestamp": "2026-09-07T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0174"
+  },
+  {
+    "entry_id": 170,
+    "account_id": "ACC-004",
+    "entry_type": "invoice",
+    "amount": -27000.0,
+    "order_id": "ORD-0175",
+    "timestamp": "2026-09-08T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0175"
+  },
+  {
+    "entry_id": 171,
+    "account_id": "ACC-015",
+    "entry_type": "invoice",
+    "amount": -39600.0,
+    "order_id": "ORD-0178",
+    "timestamp": "2026-09-11T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0178"
+  },
+  {
+    "entry_id": 172,
+    "account_id": "ACC-035",
+    "entry_type": "invoice",
+    "amount": -15600.0,
+    "order_id": "ORD-0179",
+    "timestamp": "2026-09-12T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0179"
+  },
+  {
+    "entry_id": 173,
+    "account_id": "ACC-010",
+    "entry_type": "invoice",
+    "amount": -54890.0,
+    "order_id": "ORD-0180",
+    "timestamp": "2026-09-13T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0180"
+  },
+  {
+    "entry_id": 174,
+    "account_id": "ACC-014",
+    "entry_type": "invoice",
+    "amount": -21930.0,
+    "order_id": "ORD-0181",
+    "timestamp": "2026-09-14T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0181"
+  },
+  {
+    "entry_id": 175,
+    "account_id": "ACC-026",
+    "entry_type": "invoice",
+    "amount": -36600.0,
+    "order_id": "ORD-0182",
+    "timestamp": "2026-09-15T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0182"
+  },
+  {
+    "entry_id": 176,
+    "account_id": "ACC-025",
+    "entry_type": "invoice",
+    "amount": -31490.0,
+    "order_id": "ORD-0186",
+    "timestamp": "2026-09-19T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0186"
+  },
+  {
+    "entry_id": 177,
+    "account_id": "ACC-031",
+    "entry_type": "invoice",
+    "amount": -29220.0,
+    "order_id": "ORD-0187",
+    "timestamp": "2026-09-20T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0187"
+  },
+  {
+    "entry_id": 178,
+    "account_id": "ACC-004",
+    "entry_type": "invoice",
+    "amount": -19820.0,
+    "order_id": "ORD-0188",
+    "timestamp": "2026-09-21T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0188"
+  },
+  {
+    "entry_id": 179,
+    "account_id": "ACC-016",
+    "entry_type": "invoice",
+    "amount": -18670.0,
+    "order_id": "ORD-0189",
+    "timestamp": "2026-09-22T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0189"
+  },
+  {
+    "entry_id": 180,
+    "account_id": "ACC-006",
+    "entry_type": "invoice",
+    "amount": -23100.0,
+    "order_id": "ORD-0190",
+    "timestamp": "2026-09-23T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0190"
+  },
+  {
+    "entry_id": 181,
+    "account_id": "ACC-039",
+    "entry_type": "invoice",
+    "amount": -15800.0,
+    "order_id": "ORD-0191",
+    "timestamp": "2026-09-24T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0191"
+  },
+  {
+    "entry_id": 182,
+    "account_id": "ACC-036",
+    "entry_type": "invoice",
+    "amount": -11760.0,
+    "order_id": "ORD-0192",
+    "timestamp": "2026-09-25T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0192"
+  },
+  {
+    "entry_id": 183,
+    "account_id": "ACC-020",
+    "entry_type": "invoice",
+    "amount": -2250.0,
+    "order_id": "ORD-0193",
+    "timestamp": "2026-09-26T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0193"
+  },
+  {
+    "entry_id": 184,
+    "account_id": "ACC-019",
+    "entry_type": "invoice",
+    "amount": -45910.0,
+    "order_id": "ORD-0195",
+    "timestamp": "2026-09-28T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0195"
+  },
+  {
+    "entry_id": 185,
+    "account_id": "ACC-032",
+    "entry_type": "invoice",
+    "amount": -65900.0,
+    "order_id": "ORD-0196",
+    "timestamp": "2026-09-01T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0196"
+  },
+  {
+    "entry_id": 186,
+    "account_id": "ACC-021",
+    "entry_type": "invoice",
+    "amount": -12280.0,
+    "order_id": "ORD-0197",
+    "timestamp": "2026-09-02T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0197"
+  },
+  {
+    "entry_id": 187,
+    "account_id": "ACC-025",
+    "entry_type": "invoice",
+    "amount": -22660.0,
+    "order_id": "ORD-0199",
+    "timestamp": "2026-09-04T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0199"
+  },
+  {
+    "entry_id": 188,
+    "account_id": "ACC-033",
+    "entry_type": "invoice",
+    "amount": -110500.0,
+    "order_id": "ORD-0203",
+    "timestamp": "2026-09-08T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0203"
+  },
+  {
+    "entry_id": 189,
+    "account_id": "ACC-032",
+    "entry_type": "invoice",
+    "amount": -17950.0,
+    "order_id": "ORD-0204",
+    "timestamp": "2026-09-09T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0204"
+  },
+  {
+    "entry_id": 190,
+    "account_id": "ACC-035",
+    "entry_type": "invoice",
+    "amount": -35830.0,
+    "order_id": "ORD-0205",
+    "timestamp": "2026-09-10T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0205"
+  },
+  {
+    "entry_id": 191,
+    "account_id": "ACC-007",
+    "entry_type": "invoice",
+    "amount": -14220.0,
+    "order_id": "ORD-0206",
+    "timestamp": "2026-09-11T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0206"
+  },
+  {
+    "entry_id": 192,
+    "account_id": "ACC-017",
+    "entry_type": "invoice",
+    "amount": -17460.0,
+    "order_id": "ORD-0207",
+    "timestamp": "2026-09-12T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0207"
+  },
+  {
+    "entry_id": 193,
+    "account_id": "ACC-037",
+    "entry_type": "invoice",
+    "amount": -8650.0,
+    "order_id": "ORD-0208",
+    "timestamp": "2026-09-13T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0208"
+  },
+  {
+    "entry_id": 194,
+    "account_id": "ACC-006",
+    "entry_type": "invoice",
+    "amount": -6500.0,
+    "order_id": "ORD-0209",
+    "timestamp": "2026-09-14T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0209"
+  },
+  {
+    "entry_id": 195,
+    "account_id": "ACC-011",
+    "entry_type": "invoice",
+    "amount": -39200.0,
+    "order_id": "ORD-0210",
+    "timestamp": "2026-09-15T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0210"
+  },
+  {
+    "entry_id": 196,
+    "account_id": "ACC-007",
+    "entry_type": "invoice",
+    "amount": -14400.0,
+    "order_id": "ORD-0211",
+    "timestamp": "2026-09-16T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0211"
+  },
+  {
+    "entry_id": 197,
+    "account_id": "ACC-031",
+    "entry_type": "invoice",
+    "amount": -11200.0,
+    "order_id": "ORD-0212",
+    "timestamp": "2026-09-17T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0212"
+  },
+  {
+    "entry_id": 198,
+    "account_id": "ACC-014",
+    "entry_type": "invoice",
+    "amount": -24770.0,
+    "order_id": "ORD-0214",
+    "timestamp": "2026-09-19T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0214"
+  },
+  {
+    "entry_id": 199,
+    "account_id": "ACC-025",
+    "entry_type": "invoice",
+    "amount": -27370.0,
+    "order_id": "ORD-0216",
+    "timestamp": "2026-09-21T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0216"
+  },
+  {
+    "entry_id": 200,
+    "account_id": "ACC-028",
+    "entry_type": "invoice",
+    "amount": -82440.0,
+    "order_id": "ORD-0217",
+    "timestamp": "2026-09-22T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0217"
+  },
+  {
+    "entry_id": 201,
+    "account_id": "ACC-002",
+    "entry_type": "invoice",
+    "amount": -28970.0,
+    "order_id": "ORD-0218",
+    "timestamp": "2026-09-23T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0218"
+  },
+  {
+    "entry_id": 202,
+    "account_id": "ACC-025",
+    "entry_type": "invoice",
+    "amount": -14410.0,
+    "order_id": "ORD-0219",
+    "timestamp": "2026-09-24T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0219"
+  },
+  {
+    "entry_id": 203,
+    "account_id": "ACC-005",
+    "entry_type": "invoice",
+    "amount": -5340.0,
+    "order_id": "ORD-0220",
+    "timestamp": "2026-09-25T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0220"
+  },
+  {
+    "entry_id": 204,
+    "account_id": "ACC-025",
+    "entry_type": "invoice",
+    "amount": -780.0,
+    "order_id": "ORD-0221",
+    "timestamp": "2026-09-26T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0221"
+  },
+  {
+    "entry_id": 205,
+    "account_id": "ACC-020",
+    "entry_type": "invoice",
+    "amount": -5560.0,
+    "order_id": "ORD-0222",
+    "timestamp": "2026-09-27T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0222"
+  },
+  {
+    "entry_id": 206,
+    "account_id": "ACC-027",
+    "entry_type": "invoice",
+    "amount": -37000.0,
+    "order_id": "ORD-0225",
+    "timestamp": "2026-09-02T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0225"
+  },
+  {
+    "entry_id": 207,
+    "account_id": "ACC-025",
+    "entry_type": "invoice",
+    "amount": -21290.0,
+    "order_id": "ORD-0226",
+    "timestamp": "2026-09-03T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0226"
+  },
+  {
+    "entry_id": 208,
+    "account_id": "ACC-005",
+    "entry_type": "invoice",
+    "amount": -13390.0,
+    "order_id": "ORD-0227",
+    "timestamp": "2026-09-04T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0227"
+  },
+  {
+    "entry_id": 209,
+    "account_id": "ACC-024",
+    "entry_type": "invoice",
+    "amount": -87940.0,
+    "order_id": "ORD-0228",
+    "timestamp": "2026-09-05T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0228"
+  },
+  {
+    "entry_id": 210,
+    "account_id": "ACC-009",
+    "entry_type": "invoice",
+    "amount": -54560.0,
+    "order_id": "ORD-0229",
+    "timestamp": "2026-09-06T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0229"
+  },
+  {
+    "entry_id": 211,
+    "account_id": "ACC-029",
+    "entry_type": "invoice",
+    "amount": -69230.0,
+    "order_id": "ORD-0230",
+    "timestamp": "2026-09-07T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0230"
+  },
+  {
+    "entry_id": 212,
+    "account_id": "ACC-021",
+    "entry_type": "invoice",
+    "amount": -39600.0,
+    "order_id": "ORD-0231",
+    "timestamp": "2026-09-08T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0231"
+  },
+  {
+    "entry_id": 213,
+    "account_id": "ACC-016",
+    "entry_type": "invoice",
+    "amount": -38310.0,
+    "order_id": "ORD-0232",
+    "timestamp": "2026-09-09T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0232"
+  },
+  {
+    "entry_id": 214,
+    "account_id": "ACC-008",
+    "entry_type": "invoice",
+    "amount": -29745.0,
+    "order_id": "ORD-0233",
+    "timestamp": "2026-09-10T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0233"
+  },
+  {
+    "entry_id": 215,
+    "account_id": "ACC-014",
+    "entry_type": "invoice",
+    "amount": -39950.0,
+    "order_id": "ORD-0234",
+    "timestamp": "2026-09-11T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0234"
+  },
+  {
+    "entry_id": 216,
+    "account_id": "ACC-020",
+    "entry_type": "invoice",
+    "amount": -42680.0,
+    "order_id": "ORD-0235",
+    "timestamp": "2026-09-12T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0235"
+  },
+  {
+    "entry_id": 217,
+    "account_id": "ACC-022",
+    "entry_type": "invoice",
+    "amount": -5500.0,
+    "order_id": "ORD-0239",
+    "timestamp": "2026-09-16T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0239"
+  },
+  {
+    "entry_id": 218,
+    "account_id": "ACC-027",
+    "entry_type": "invoice",
+    "amount": -53600.0,
+    "order_id": "ORD-0242",
+    "timestamp": "2026-09-19T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0242"
+  },
+  {
+    "entry_id": 219,
+    "account_id": "ACC-034",
+    "entry_type": "invoice",
+    "amount": -15040.0,
+    "order_id": "ORD-0243",
+    "timestamp": "2026-09-20T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0243"
+  },
+  {
+    "entry_id": 220,
+    "account_id": "ACC-005",
+    "entry_type": "invoice",
+    "amount": -19330.0,
+    "order_id": "ORD-0244",
+    "timestamp": "2026-09-21T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0244"
+  },
+  {
+    "entry_id": 221,
+    "account_id": "ACC-016",
+    "entry_type": "invoice",
+    "amount": -50470.0,
+    "order_id": "ORD-0245",
+    "timestamp": "2026-09-22T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0245"
+  },
+  {
+    "entry_id": 222,
+    "account_id": "ACC-026",
+    "entry_type": "invoice",
+    "amount": -97500.0,
+    "order_id": "ORD-0246",
+    "timestamp": "2026-09-23T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0246"
+  },
+  {
+    "entry_id": 223,
+    "account_id": "ACC-028",
+    "entry_type": "invoice",
+    "amount": -49880.0,
+    "order_id": "ORD-0248",
+    "timestamp": "2026-09-25T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0248"
+  },
+  {
+    "entry_id": 224,
+    "account_id": "ACC-035",
+    "entry_type": "invoice",
+    "amount": -15950.0,
+    "order_id": "ORD-0249",
+    "timestamp": "2026-09-26T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0249"
+  },
+  {
+    "entry_id": 225,
+    "account_id": "ACC-040",
+    "entry_type": "invoice",
+    "amount": -25360.0,
+    "order_id": "ORD-0252",
+    "timestamp": "2026-09-01T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0252"
+  },
+  {
+    "entry_id": 226,
+    "account_id": "ACC-012",
+    "entry_type": "invoice",
+    "amount": -80940.0,
+    "order_id": "ORD-0253",
+    "timestamp": "2026-09-02T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0253"
+  },
+  {
+    "entry_id": 227,
+    "account_id": "ACC-028",
+    "entry_type": "invoice",
+    "amount": -34035.0,
+    "order_id": "ORD-0254",
+    "timestamp": "2026-09-03T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0254"
+  },
+  {
+    "entry_id": 228,
+    "account_id": "ACC-032",
+    "entry_type": "invoice",
+    "amount": -24640.0,
+    "order_id": "ORD-0255",
+    "timestamp": "2026-09-04T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0255"
+  },
+  {
+    "entry_id": 229,
+    "account_id": "ACC-040",
+    "entry_type": "invoice",
+    "amount": -5040.0,
+    "order_id": "ORD-0256",
+    "timestamp": "2026-09-05T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0256"
+  },
+  {
+    "entry_id": 230,
+    "account_id": "ACC-032",
+    "entry_type": "invoice",
+    "amount": -30470.0,
+    "order_id": "ORD-0258",
+    "timestamp": "2026-09-07T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0258"
+  },
+  {
+    "entry_id": 231,
+    "account_id": "ACC-018",
+    "entry_type": "invoice",
+    "amount": -85440.0,
+    "order_id": "ORD-0261",
+    "timestamp": "2026-09-10T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0261"
+  },
+  {
+    "entry_id": 232,
+    "account_id": "ACC-023",
+    "entry_type": "invoice",
+    "amount": -14580.0,
+    "order_id": "ORD-0263",
+    "timestamp": "2026-09-12T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0263"
+  },
+  {
+    "entry_id": 233,
+    "account_id": "ACC-014",
+    "entry_type": "invoice",
+    "amount": -60875.0,
+    "order_id": "ORD-0265",
+    "timestamp": "2026-09-14T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0265"
+  },
+  {
+    "entry_id": 234,
+    "account_id": "ACC-027",
+    "entry_type": "invoice",
+    "amount": -20820.0,
+    "order_id": "ORD-0267",
+    "timestamp": "2026-09-16T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0267"
+  },
+  {
+    "entry_id": 235,
+    "account_id": "ACC-025",
+    "entry_type": "invoice",
+    "amount": -54560.0,
+    "order_id": "ORD-0269",
+    "timestamp": "2026-09-18T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0269"
+  },
+  {
+    "entry_id": 236,
+    "account_id": "ACC-018",
+    "entry_type": "invoice",
+    "amount": -19880.0,
+    "order_id": "ORD-0270",
+    "timestamp": "2026-09-19T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0270"
+  },
+  {
+    "entry_id": 237,
+    "account_id": "ACC-006",
+    "entry_type": "invoice",
+    "amount": -54040.0,
+    "order_id": "ORD-0271",
+    "timestamp": "2026-09-20T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0271"
+  },
+  {
+    "entry_id": 238,
+    "account_id": "ACC-014",
+    "entry_type": "invoice",
+    "amount": -36630.0,
+    "order_id": "ORD-0272",
+    "timestamp": "2026-09-21T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0272"
+  },
+  {
+    "entry_id": 239,
+    "account_id": "ACC-036",
+    "entry_type": "invoice",
+    "amount": -17310.0,
+    "order_id": "ORD-0273",
+    "timestamp": "2026-09-22T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0273"
+  },
+  {
+    "entry_id": 240,
+    "account_id": "ACC-007",
+    "entry_type": "invoice",
+    "amount": -5740.0,
+    "order_id": "ORD-0274",
+    "timestamp": "2026-09-23T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0274"
+  },
+  {
+    "entry_id": 241,
+    "account_id": "ACC-029",
+    "entry_type": "invoice",
+    "amount": -19480.0,
+    "order_id": "ORD-0275",
+    "timestamp": "2026-09-24T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0275"
+  },
+  {
+    "entry_id": 242,
+    "account_id": "ACC-011",
+    "entry_type": "invoice",
+    "amount": -18760.0,
+    "order_id": "ORD-0276",
+    "timestamp": "2026-09-25T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0276"
+  },
+  {
+    "entry_id": 243,
+    "account_id": "ACC-026",
+    "entry_type": "invoice",
+    "amount": -36050.0,
+    "order_id": "ORD-0277",
+    "timestamp": "2026-09-26T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0277"
+  },
+  {
+    "entry_id": 244,
+    "account_id": "ACC-001",
+    "entry_type": "invoice",
+    "amount": -9600.0,
+    "order_id": "ORD-0278",
+    "timestamp": "2026-09-27T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0278"
+  },
+  {
+    "entry_id": 245,
+    "account_id": "ACC-028",
+    "entry_type": "invoice",
+    "amount": -14160.0,
+    "order_id": "ORD-0280",
+    "timestamp": "2026-09-01T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0280"
+  },
+  {
+    "entry_id": 246,
+    "account_id": "ACC-007",
+    "entry_type": "invoice",
+    "amount": -17780.0,
+    "order_id": "ORD-0281",
+    "timestamp": "2026-09-02T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0281"
+  },
+  {
+    "entry_id": 247,
+    "account_id": "ACC-040",
+    "entry_type": "invoice",
+    "amount": -26100.0,
+    "order_id": "ORD-0283",
+    "timestamp": "2026-09-04T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0283"
+  },
+  {
+    "entry_id": 248,
+    "account_id": "ACC-008",
+    "entry_type": "invoice",
+    "amount": -20160.0,
+    "order_id": "ORD-0285",
+    "timestamp": "2026-09-06T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0285"
+  },
+  {
+    "entry_id": 249,
+    "account_id": "ACC-018",
+    "entry_type": "invoice",
+    "amount": -12980.0,
+    "order_id": "ORD-0286",
+    "timestamp": "2026-09-07T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0286"
+  },
+  {
+    "entry_id": 250,
+    "account_id": "ACC-002",
+    "entry_type": "invoice",
+    "amount": -16380.0,
+    "order_id": "ORD-0287",
+    "timestamp": "2026-09-08T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0287"
+  },
+  {
+    "entry_id": 251,
+    "account_id": "ACC-013",
+    "entry_type": "invoice",
+    "amount": -16320.0,
+    "order_id": "ORD-0288",
+    "timestamp": "2026-09-09T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0288"
+  },
+  {
+    "entry_id": 252,
+    "account_id": "ACC-025",
+    "entry_type": "invoice",
+    "amount": -107000.0,
+    "order_id": "ORD-0289",
+    "timestamp": "2026-09-10T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0289"
+  },
+  {
+    "entry_id": 253,
+    "account_id": "ACC-001",
+    "entry_type": "invoice",
+    "amount": -17800.0,
+    "order_id": "ORD-0290",
+    "timestamp": "2026-09-11T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0290"
+  },
+  {
+    "entry_id": 254,
+    "account_id": "ACC-005",
+    "entry_type": "invoice",
+    "amount": -3750.0,
+    "order_id": "ORD-0292",
+    "timestamp": "2026-09-13T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0292"
+  },
+  {
+    "entry_id": 255,
+    "account_id": "ACC-026",
+    "entry_type": "invoice",
+    "amount": -55530.0,
+    "order_id": "ORD-0293",
+    "timestamp": "2026-09-14T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0293"
+  },
+  {
+    "entry_id": 256,
+    "account_id": "ACC-033",
+    "entry_type": "invoice",
+    "amount": -21470.0,
+    "order_id": "ORD-0295",
+    "timestamp": "2026-09-16T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0295"
+  },
+  {
+    "entry_id": 257,
+    "account_id": "ACC-016",
+    "entry_type": "invoice",
+    "amount": -31500.0,
+    "order_id": "ORD-0296",
+    "timestamp": "2026-09-17T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0296"
+  },
+  {
+    "entry_id": 258,
+    "account_id": "ACC-009",
+    "entry_type": "invoice",
+    "amount": -10920.0,
+    "order_id": "ORD-0298",
+    "timestamp": "2026-09-19T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0298"
+  },
+  {
+    "entry_id": 259,
+    "account_id": "ACC-034",
+    "entry_type": "invoice",
+    "amount": -4500.0,
+    "order_id": "ORD-0299",
+    "timestamp": "2026-09-20T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0299"
+  },
+  {
+    "entry_id": 260,
+    "account_id": "ACC-018",
+    "entry_type": "invoice",
+    "amount": -33000.0,
+    "order_id": "ORD-0300",
+    "timestamp": "2026-09-21T15:00:00Z",
+    "description": "Invoice commitment for order ORD-0300"
+  }
+]

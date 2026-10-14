@@ -1,0 +1,26 @@
+[
+  {
+    "depot_id": "DEP-MID",
+    "depot_name": "Midland Central Bulk Terminal",
+    "location": "Midland, TX",
+    "capacity_gal": 250000.0
+  },
+  {
+    "depot_id": "DEP-PEC",
+    "depot_name": "Pecos Valley Chemical Depot",
+    "location": "Pecos, TX",
+    "capacity_gal": 180000.0
+  },
+  {
+    "depot_id": "DEP-CAR",
+    "depot_name": "Carlsbad Delaware Basin Hub",
+    "location": "Carlsbad, NM",
+    "capacity_gal": 200000.0
+  },
+  {
+    "depot_id": "DEP-ODE",
+    "depot_name": "Odessa Chemical Staging Facility",
+    "location": "Odessa, TX",
+    "capacity_gal": 150000.0
+  }
+]

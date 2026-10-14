@@ -1,0 +1,32 @@
+[
+  {
+    "product_id_a": "CHEM-801",
+    "product_id_b": "CHEM-301",
+    "reason": "Severe reaction: Hydrochloric Acid with Methammable solvent."
+  },
+  {
+    "product_id_a": "CHEM-801",
+    "product_id_b": "CHEM-806",
+    "reason": "Violent exothermic neutralization: Strong Acid (HCl) with Strong Base (NaOH)."
+  },
+  {
+    "product_id_a": "CHEM-802",
+    "product_id_b": "CHEM-301",
+    "reason": "Severe reaction: Concentrated Acid with Flammable solvent."
+  },
+  {
+    "product_id_a": "CHEM-802",
+    "product_id_b": "CHEM-806",
+    "reason": "Violent exothermic neutralization: Acid (HCl 28%) with Base (NaOH 25%)."
+  },
+  {
+    "product_id_a": "CHEM-803",
+    "product_id_b": "CHEM-302",
+    "reason": "Toxic gas generation: Hydrofluoric acid with Isopropanol."
+  },
+  {
+    "product_id_a": "CHEM-806",
+    "product_id_b": "CHEM-301",
+    "reason": "Incompatible caustic with alcohol solvent in shared transport."
+  }
+]

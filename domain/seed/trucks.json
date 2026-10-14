@@ -1,0 +1,114 @@
+[
+  {
+    "truck_id": "TRK-001",
+    "license_plate": "TX-324-CD",
+    "truck_type": "Acid Tanker",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "8"
+  },
+  {
+    "truck_id": "TRK-002",
+    "license_plate": "TX-735-EF",
+    "truck_type": "Flammable Transport",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "3"
+  },
+  {
+    "truck_id": "TRK-003",
+    "license_plate": "TX-794-CD",
+    "truck_type": "Bulk Chemical Transport",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "non_regulated,9"
+  },
+  {
+    "truck_id": "TRK-004",
+    "license_plate": "TX-743-AB",
+    "truck_type": "Bulk Chemical Transport",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "non_regulated,9"
+  },
+  {
+    "truck_id": "TRK-005",
+    "license_plate": "TX-742-AB",
+    "truck_type": "Acid Tanker",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "8"
+  },
+  {
+    "truck_id": "TRK-006",
+    "license_plate": "TX-416-GH",
+    "truck_type": "Flammable Transport",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "3"
+  },
+  {
+    "truck_id": "TRK-007",
+    "license_plate": "TX-134-EF",
+    "truck_type": "Bulk Chemical Transport",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "non_regulated,9"
+  },
+  {
+    "truck_id": "TRK-008",
+    "license_plate": "TX-849-CD",
+    "truck_type": "Bulk Chemical Transport",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "non_regulated,9"
+  },
+  {
+    "truck_id": "TRK-009",
+    "license_plate": "TX-192-EF",
+    "truck_type": "Acid Tanker",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "8"
+  },
+  {
+    "truck_id": "TRK-010",
+    "license_plate": "TX-434-GH",
+    "truck_type": "Flammable Transport",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "3"
+  },
+  {
+    "truck_id": "TRK-011",
+    "license_plate": "TX-279-CD",
+    "truck_type": "Bulk Chemical Transport",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "non_regulated,9"
+  },
+  {
+    "truck_id": "TRK-012",
+    "license_plate": "TX-235-EF",
+    "truck_type": "Bulk Chemical Transport",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "non_regulated,9"
+  },
+  {
+    "truck_id": "TRK-013",
+    "license_plate": "TX-643-EF",
+    "truck_type": "Acid Tanker",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "8"
+  },
+  {
+    "truck_id": "TRK-014",
+    "license_plate": "TX-950-CD",
+    "truck_type": "Flammable Transport",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "3"
+  },
+  {
+    "truck_id": "TRK-015",
+    "license_plate": "TX-363-GH",
+    "truck_type": "Bulk Chemical Transport",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "non_regulated,9"
+  },
+  {
+    "truck_id": "TRK-016",
+    "license_plate": "TX-925-EF",
+    "truck_type": "Bulk Chemical Transport",
+    "capacity_gal": 5000.0,
+    "hazmat_certified_classes": "non_regulated,9"
+  }
+]

@@ -8,15 +8,30 @@ from pydantic import BaseModel
 
 class ToolResult(BaseModel):
     """Standardized response from tool execution."""
-    success: bool
+    success: bool = True
     data: Optional[Any] = None
     error: Optional[str] = None
+    is_error: Optional[bool] = None
+    error_message: Optional[str] = None
+
+    def model_post_init(self, __context: Any) -> None:
+        if self.is_error is not None:
+            self.success = not self.is_error
+        else:
+            self.is_error = not self.success
+
+        if self.error_message is not None and self.error is None:
+            self.error = self.error_message
+        elif self.error is not None and self.error_message is None:
+            self.error_message = self.error
 
     def to_dict(self) -> Dict[str, Any]:
         return {
             "success": self.success,
             "data": self.data,
             "error": self.error,
+            "is_error": self.is_error,
+            "error_message": self.error_message,
         }
 
 

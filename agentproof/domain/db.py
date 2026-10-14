@@ -176,6 +176,20 @@ class DatabaseManager:
         cursor.executescript(SCHEMA_SQL)
         self.conn.commit()
 
+    @classmethod
+    def create_isolated_db(
+        cls, seed_dir: Optional[str] = None, db_path: Optional[str] = None
+    ) -> "DatabaseManager":
+        """Create a fresh isolated database and seed it from the seed directory."""
+        db = cls(db_path=db_path)
+        if seed_dir is None:
+            repo_seed = Path(__file__).resolve().parent.parent.parent / "domain" / "seed"
+            if repo_seed.is_dir():
+                seed_dir = str(repo_seed)
+        if seed_dir and Path(seed_dir).is_dir():
+            db.seed_from_directory(seed_dir)
+        return db
+
     def seed_from_data(self, seed_data: Dict[str, List[Dict[str, Any]]]) -> None:
         """Seed tables from in-memory dictionary of rows."""
         cursor = self.conn.cursor()

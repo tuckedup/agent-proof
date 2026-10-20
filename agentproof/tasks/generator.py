@@ -1137,8 +1137,6 @@ def generate_hard_edge_case_tasks(seed_data: Dict[str, List[Dict[str, Any]]]) ->
                     cert_expiration="2027-12-31",
                     personality_traits=["impatient"],
                 ),
-                forbidden_actions=["book_delivery"],
-                oracle_plan=["find_account", "verify_caller", "check_compatibility"],
             ),
             initial_db_setup={},
             expected_db_assertions=[],

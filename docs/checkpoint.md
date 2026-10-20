@@ -1,6 +1,6 @@
 # Development checkpoint
 
-This checkpoint reflects repository commit `0260e3f` and records work already present in the source tree. The domain and all customer and operational data are synthetic.
+This checkpoint records CI repairs made on top of repository commit `df0dff8`. The domain and all customer and operational data are synthetic.
 
 ## Implemented scope
 
@@ -9,6 +9,14 @@ This checkpoint reflects repository commit `0260e3f` and records work already pr
 - Scripted user simulator, leak detector, and episode orchestrator with dual, no-user, and oracle-plan modes.
 - React baseline, LangGraph plan-execute and supervisor agents, plus mock LLM provider, cache, and cost tracking.
 - A static Next.js page and minimal smoke tests.
+
+## CI repair scope
+
+- Added explicit collection annotations in the deterministic domain generator and resolved a reused loop-variable type conflict.
+- Kept hard-task `forbidden_actions` and `oracle_plan` on the parent `Task`, where evaluator constraints belong. A regression test confirms they are retained without being exposed in `UserInstructions`.
+- Made the plan-execute credit policy fail closed when credit verification fails, returns no payload, or omits a sufficient-credit result. A regression test covers the missing-payload case.
+- Made the mock provider tolerate a partial or absent LiteLLM import without assigning `None` to an imported class type.
+- Added the Next.js ESLint configuration so `pnpm lint` does not enter interactive setup in CI.
 
 These components have unit and integration test coverage. The full Python test suite passed in the validation environment described below.
 
@@ -19,13 +27,14 @@ These components have unit and integration test coverage. The full Python test s
 - The web page is static; it does not load trajectories, traces, labels, or benchmark results.
 - Benchmark metrics and evaluation results are not yet measured. There are no committed benchmark reports.
 
-## Validation at checkpoint preparation
+## Validation for CI repairs
 
-- Python: the supplied environment reports Python 3.12.7.
-- Ruff: `python -m ruff check agentproof tests` passed.
-- Pytest: all 62 tests passed with pytest plugin autoload disabled, `pytest_asyncio` explicitly enabled, and temporary files directed to the workspace. The tests use mock providers; no live model calls were made. `test_mock_provider_scenarios` was corrected to read both dictionary and LiteLLM object response shapes while retaining its tool-call assertions.
-- Mypy: failed with 15 errors across 9 files. Reported issues include type mismatches in the domain/task/agent code and missing LiteLLM attributes in the supplied environment.
-- Frontend: `node --test tests/smoke.test.js` passed (2 tests). Those tests contain basic assertions and do not exercise the page or application behavior. The package lint command was not run because `web/node_modules` is absent.
+- Ruff: `D:\FDE\agentproof\.venv\Scripts\python.exe -m ruff check agentproof tests` passed.
+- Mypy: `D:\FDE\agentproof\.venv\Scripts\python.exe -m mypy agentproof --ignore-missing-imports` reports six unrelated LiteLLM missing-attribute errors in `cost_tracker.py`, `cache.py`, `litellm_client.py`, `user_sim.py`, and `react.py`. The supplied environment has a partial LiteLLM installation, as documented for this repair; no errors remain in the four CI-repair source files. The command used `PYTHONPATH` set to this clone, `PYTHONDONTWRITEBYTECODE=1`, and workspace-local temporary paths.
+- Final pytest: all 64 tests passed in 4.06 seconds with pytest plugin autoload disabled, `pytest_asyncio` explicitly enabled, `LITELLM_LOCAL_MODEL_COST_MAP=True`, and temporary files directed to the workspace.
+- Frontend: `node --test tests/smoke.test.js` passed (2 tests). `pnpm lint` was not run locally because `web/node_modules` is absent; no dependencies were installed or upgraded.
 - No live or paid model APIs were called.
+
+A new clean GitHub CI run must verify the repaired type and frontend lint checks.
 
 The `reports/` directory is reserved for future run artifacts. It currently contains no benchmark results.

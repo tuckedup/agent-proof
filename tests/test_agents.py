@@ -17,6 +17,7 @@ from agentproof.domain.db import DatabaseManager
 from agentproof.sim.models import SimulationMode, Task
 from agentproof.sim.orchestrator import Orchestrator
 from agentproof.tools.agent_tools import AGENT_TOOLS
+from agentproof.tools.base import ToolResult
 
 
 @pytest.fixture
@@ -238,6 +239,34 @@ def test_langgraph_plan_execute_policy_check_credit_limit(test_db: DatabaseManag
     assert check_res["policy_check_passed"] is False
     assert check_res["policy_violation"]["rule"] == "credit_limit"
     assert check_res["policy_violation"]["reason"] == "credit_limit_exceeded"
+
+
+def test_langgraph_plan_execute_rejects_incomplete_credit_result(
+    test_db: DatabaseManager, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    """Verify policy checks fail closed when credit verification has no payload."""
+    agent = LangGraphPlanExecuteAgent()
+
+    def incomplete_credit_check(**_: Any) -> ToolResult:
+        return ToolResult(success=True, data=None)
+
+    monkeypatch.setattr(AGENT_TOOLS["check_credit"], "func", incomplete_credit_check)
+    state = {
+        "current_action": {
+            "tool_name": "create_order",
+            "arguments": {
+                "account_id": "ACC-001",
+                "site_code": "SITE-MID-001",
+                "lines": [{"product_id": "CHEM-B101", "quantity": 1}],
+                "delivery_date": "2026-10-20",
+            },
+        },
+        "context": {"db": test_db},
+    }
+
+    check_res = agent._policy_check_node(state)  # type: ignore[arg-type]
+    assert check_res["policy_check_passed"] is False
+    assert check_res["policy_violation"]["reason"] == "credit_check_incomplete"
 
 
 def test_langgraph_plan_execute_policy_check_road_access(test_db: DatabaseManager) -> None:

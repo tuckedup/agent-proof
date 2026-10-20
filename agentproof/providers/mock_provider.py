@@ -16,10 +16,10 @@ from pydantic import BaseModel, Field
 
 try:
     import litellm
-    from litellm import ModelResponse
 except ImportError:
     litellm = None  # type: ignore[assignment]
-    ModelResponse = None  # type: ignore[assignment]
+
+ModelResponse: Any = getattr(litellm, "ModelResponse", None) if litellm is not None else None
 
 
 class MockToolCall(BaseModel):

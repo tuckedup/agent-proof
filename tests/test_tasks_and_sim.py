@@ -14,6 +14,7 @@ from agentproof.sim.user_sim import (
 )
 from agentproof.tasks.generator import (
     generate_all_tasks,
+    generate_hard_edge_case_tasks,
     get_task,
     load_tasks,
     save_tasks,
@@ -74,6 +75,17 @@ def test_models_validation() -> None:
     assert task.category == Category.ATOMIC
     assert task.intents == [TaskIntent.VERIFY]
     assert task.difficulty == Difficulty.EASY
+
+
+def test_hard_task_constraints_are_on_task_not_user_instructions() -> None:
+    """Keep evaluator-only safety constraints out of user simulator instructions."""
+    hard_tasks = generate_hard_edge_case_tasks({})
+    task = next(task for task in hard_tasks if task.id == "TASK-HARD-002")
+
+    assert task.forbidden_actions == ["book_delivery"]
+    assert task.oracle_plan == ["find_account", "verify_caller", "check_compatibility"]
+    assert "forbidden_actions" not in task.user_instructions.model_dump()
+    assert "oracle_plan" not in task.user_instructions.model_dump()
 
 
 def test_db_assertion_evaluation(seeded_db: DatabaseManager) -> None:

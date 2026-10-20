@@ -406,8 +406,19 @@ class LangGraphPlanExecuteAgent(AgentInterface):
                 credit_res = AGENT_TOOLS["check_credit"].execute(
                     db, account_id=account_id, order_amount=order_cost
                 )
-                if credit_res.success and not credit_res.data.get("credit_sufficient", True):
-                    avail = credit_res.data.get("available_credit", 0.0)
+                credit_data = credit_res.data
+                if not credit_res.success or not isinstance(credit_data, dict):
+                    return {
+                        "policy_check_passed": False,
+                        "policy_violation": {
+                            "rule": "credit_check",
+                            "reason": "credit_check_incomplete",
+                            "message": "Credit verification did not return a complete result.",
+                        },
+                    }
+
+                if not credit_data.get("credit_sufficient", False):
+                    avail = credit_data.get("available_credit", 0.0)
                     return {
                         "policy_check_passed": False,
                         "policy_violation": {

@@ -164,7 +164,7 @@ def generate_seed_dataset(output_dir: str = "domain/seed", seed: int = 42) -> Di
         ("CHEM-137", "SKU-SILICA-SCALE", "Specialty Geothermal Silica Inhibitor", "Scale Control", "non_regulated", "scale_inhibitor", "gal", 21.00, 4000.0),
     ]
 
-    products = []
+    products: List[Dict[str, Any]] = []
     for pid, sku, name, cat, hclass, ctype, unit, price, max_qty in chemicals:
         products.append({
             "product_id": pid,
@@ -321,10 +321,10 @@ def generate_seed_dataset(output_dir: str = "domain/seed", seed: int = 42) -> Di
 
     # 11. Site Access (road conditions per site)
     site_access: List[Dict[str, Any]] = []
-    for s in sites:
+    for site in sites:
         road_status = rng.choices(["open", "restricted_wet", "closed"], weights=[0.80, 0.15, 0.05])[0]
         site_access.append({
-            "site_code": s["site_code"],
+            "site_code": site["site_code"],
             "road_status": road_status,
             "updated_at": "2026-10-14T06:00:00Z"
         })

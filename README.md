@@ -36,7 +36,7 @@ uv sync --locked --extra dev
 # Run the implemented Python checks
 uv run poe test
 uv run poe lint
-# Currently reports existing type errors; see docs/checkpoint.md
+# Requires a complete locked dependency installation; see docs/checkpoint.md
 uv run poe typecheck
 
 # Run the frontend scaffold's minimal Node.js smoke tests

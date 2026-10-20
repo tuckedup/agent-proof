@@ -20,25 +20,19 @@
 ## Key Commands
 ```powershell
 # Python environment & dependencies
-uv sync
+uv sync --locked --extra dev
 
-# Poe tasks
-uv run poe dev              # Run development services (Phoenix and Next.js)
-uv run poe test             # Run Python unit and integration test suite
-uv run poe lint             # Run Ruff linter and formatter checks
-uv run poe typecheck        # Run Mypy static type checking
-uv run poe sim              # Run agent simulation benchmarks
-uv run poe report           # Generate benchmark reports from run traces
-uv run poe judges:validate  # Run LLM judge validation pipeline
-uv run poe gate             # Run regression gate check against baseline
+# Implemented Poe checks
+uv run poe test             # Run Python unit and integration tests
+uv run poe lint             # Run Ruff checks
+uv run poe typecheck        # Run Mypy
 
-# Web frontend
+# Minimal frontend scaffold test
 cd web
-pnpm install
-pnpm dev
-pnpm build
-pnpm test
+node --test tests/smoke.test.js
 ```
+
+The CLI commands `dev`, `sim`, `report`, `validate-judges`, and `gate` are placeholders that only print the selected command. Do not treat them as implemented workflows.
 
 ## Coding Conventions
 1. Target Windows 11 PowerShell and Linux. Never author bash-only scripts or use Unix-specific assumptions.

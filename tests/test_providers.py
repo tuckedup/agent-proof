@@ -14,6 +14,25 @@ from agentproof.providers import (
 )
 
 
+def mock_response_tool_name(response) -> str:
+    """Read a tool name from mock response dictionaries or LiteLLM response objects."""
+    choices = response["choices"] if isinstance(response, dict) else response.choices
+    first_choice = choices[0]
+    message = first_choice["message"] if isinstance(first_choice, dict) else first_choice.message
+    tool_calls = message.get("tool_calls", []) if isinstance(message, dict) else message.tool_calls
+    first_call = tool_calls[0]
+    function = first_call["function"] if isinstance(first_call, dict) else first_call.function
+    return function["name"] if isinstance(function, dict) else function.name
+
+
+def mock_response_content(response) -> str:
+    """Read response content from a mock dictionary or LiteLLM response object."""
+    choices = response["choices"] if isinstance(response, dict) else response.choices
+    first_choice = choices[0]
+    message = first_choice["message"] if isinstance(first_choice, dict) else first_choice.message
+    return message["content"] if isinstance(message, dict) else message.content
+
+
 def test_cost_tracker_basic_and_summary() -> None:
     """Verify CostTracker tracks tokens and dollar costs accurately."""
     tracker = CostTracker(max_run_usd=1.0)
@@ -173,19 +192,14 @@ def test_mock_provider_scenarios(tmp_path) -> None:
         messages=[{"role": "user", "content": "Please find account for Apex Solutions."}],
         tools=[{"name": "find_account"}],
     )
-    tool_calls = getattr(res_account.choices[0].message, "tool_calls", None)
-    assert tool_calls is not None
-    fn_name = tool_calls[0].function.name if hasattr(tool_calls[0], "function") else tool_calls[0]["function"]["name"]
-    assert fn_name == "find_account"
+    assert mock_response_tool_name(res_account) == "find_account"
 
     res_verify = provider.get_response(
         model="mock-model",
         messages=[{"role": "user", "content": "Verify caller John Doe for site SITE-MID-001"}],
         tools=[{"name": "verify_caller"}],
     )
-    tool_calls_v = getattr(res_verify.choices[0].message, "tool_calls", None)
-    fn_name_v = tool_calls_v[0].function.name if hasattr(tool_calls_v[0], "function") else tool_calls_v[0]["function"]["name"]
-    assert fn_name_v == "verify_caller"
+    assert mock_response_tool_name(res_verify) == "verify_caller"
 
     # 2. Stock check and quoting
     res_stock = provider.get_response(
@@ -193,18 +207,14 @@ def test_mock_provider_scenarios(tmp_path) -> None:
         messages=[{"role": "user", "content": "Check stock for CHEM-CORR-01 at DEPOT-001"}],
         tools=[{"name": "check_stock"}],
     )
-    tc_stock = getattr(res_stock.choices[0].message, "tool_calls", None)
-    fn_stock = tc_stock[0].function.name if hasattr(tc_stock[0], "function") else tc_stock[0]["function"]["name"]
-    assert fn_stock == "check_stock"
+    assert mock_response_tool_name(res_stock) == "check_stock"
 
     res_quote = provider.get_response(
         model="mock-model",
         messages=[{"role": "user", "content": "Quote price for 500 gallons of corrosion inhibitor"}],
         tools=[{"name": "quote_price"}],
     )
-    tc_quote = getattr(res_quote.choices[0].message, "tool_calls", None)
-    fn_quote = tc_quote[0].function.name if hasattr(tc_quote[0], "function") else tc_quote[0]["function"]["name"]
-    assert fn_quote == "quote_price"
+    assert mock_response_tool_name(res_quote) == "quote_price"
 
     # 3. Order creation, modification, cancellation
     res_create = provider.get_response(
@@ -212,27 +222,21 @@ def test_mock_provider_scenarios(tmp_path) -> None:
         messages=[{"role": "user", "content": "Create order for 500 gallons of CHEM-CORR-01"}],
         tools=[{"name": "create_order"}],
     )
-    tc_create = getattr(res_create.choices[0].message, "tool_calls", None)
-    fn_create = tc_create[0].function.name if hasattr(tc_create[0], "function") else tc_create[0]["function"]["name"]
-    assert fn_create == "create_order"
+    assert mock_response_tool_name(res_create) == "create_order"
 
     res_mod = provider.get_response(
         model="mock-model",
         messages=[{"role": "user", "content": "Modify order ORD-0001 change quantity to 600"}],
         tools=[{"name": "modify_order"}],
     )
-    tc_mod = getattr(res_mod.choices[0].message, "tool_calls", None)
-    fn_mod = tc_mod[0].function.name if hasattr(tc_mod[0], "function") else tc_mod[0]["function"]["name"]
-    assert fn_mod == "modify_order"
+    assert mock_response_tool_name(res_mod) == "modify_order"
 
     res_cancel = provider.get_response(
         model="mock-model",
         messages=[{"role": "user", "content": "Cancel order ORD-0001 due to duplicate entry"}],
         tools=[{"name": "cancel_order"}],
     )
-    tc_cancel = getattr(res_cancel.choices[0].message, "tool_calls", None)
-    fn_cancel = tc_cancel[0].function.name if hasattr(tc_cancel[0], "function") else tc_cancel[0]["function"]["name"]
-    assert fn_cancel == "cancel_order"
+    assert mock_response_tool_name(res_cancel) == "cancel_order"
 
     # 4. Delivery slot search and booking
     res_slots = provider.get_response(
@@ -240,18 +244,14 @@ def test_mock_provider_scenarios(tmp_path) -> None:
         messages=[{"role": "user", "content": "Search delivery slot dispatch window for 2026-10-15"}],
         tools=[{"name": "list_delivery_slots"}],
     )
-    tc_slots = getattr(res_slots.choices[0].message, "tool_calls", None)
-    fn_slots = tc_slots[0].function.name if hasattr(tc_slots[0], "function") else tc_slots[0]["function"]["name"]
-    assert fn_slots == "list_delivery_slots"
+    assert mock_response_tool_name(res_slots) == "list_delivery_slots"
 
     res_book = provider.get_response(
         model="mock-model",
         messages=[{"role": "user", "content": "Book delivery slot SLOT-0001 for order ORD-0001"}],
         tools=[{"name": "book_delivery"}],
     )
-    tc_book = getattr(res_book.choices[0].message, "tool_calls", None)
-    fn_book = tc_book[0].function.name if hasattr(tc_book[0], "function") else tc_book[0]["function"]["name"]
-    assert fn_book == "book_delivery"
+    assert mock_response_tool_name(res_book) == "book_delivery"
 
     # 5. Hazmat compatibility check and certified receiver checks
     res_hazmat = provider.get_response(
@@ -259,9 +259,7 @@ def test_mock_provider_scenarios(tmp_path) -> None:
         messages=[{"role": "user", "content": "Check hazmat compatibility for CHEM-CORR-01 and CHEM-SCALE-02"}],
         tools=[{"name": "check_compatibility"}],
     )
-    tc_hazmat = getattr(res_hazmat.choices[0].message, "tool_calls", None)
-    fn_hazmat = tc_hazmat[0].function.name if hasattr(tc_hazmat[0], "function") else tc_hazmat[0]["function"]["name"]
-    assert fn_hazmat == "check_compatibility"
+    assert mock_response_tool_name(res_hazmat) == "check_compatibility"
 
     # 6. Credit checks and policy escalations
     res_credit = provider.get_response(
@@ -269,25 +267,21 @@ def test_mock_provider_scenarios(tmp_path) -> None:
         messages=[{"role": "user", "content": "Run credit check for account ACC-001"}],
         tools=[{"name": "check_credit"}],
     )
-    tc_credit = getattr(res_credit.choices[0].message, "tool_calls", None)
-    fn_credit = tc_credit[0].function.name if hasattr(tc_credit[0], "function") else tc_credit[0]["function"]["name"]
-    assert fn_credit == "check_credit"
+    assert mock_response_tool_name(res_credit) == "check_credit"
 
     res_esc = provider.get_response(
         model="mock-model",
         messages=[{"role": "user", "content": "Escalate to human desk supervisor due to policy exception"}],
         tools=[{"name": "escalate_to_human"}],
     )
-    tc_esc = getattr(res_esc.choices[0].message, "tool_calls", None)
-    fn_esc = tc_esc[0].function.name if hasattr(tc_esc[0], "function") else tc_esc[0]["function"]["name"]
-    assert fn_esc == "escalate_to_human"
+    assert mock_response_tool_name(res_esc) == "escalate_to_human"
 
     # 7. LangGraph supervisor agent routing responses
     res_sup = provider.get_response(
         model="mock-model",
         messages=[{"role": "system", "content": "You are the LangGraph supervisor. Route to next specialist."}],
     )
-    sup_content = res_sup.choices[0].message.content
+    sup_content = mock_response_content(res_sup)
     assert "order_agent" in sup_content
 
 
